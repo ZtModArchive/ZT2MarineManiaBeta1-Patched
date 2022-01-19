@@ -1,0 +1,47 @@
+<BFTypedBinder binderType="SealTrampoline">
+   <types>
+      <entity>
+         <prop>
+	         <SealTrampoline/>
+         </prop>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity entityVersion="1"/>
+   </instance>
+   <shared>
+   	<ZTDevComponent/>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\objects\buildings\SealTrampoline\SealTrampoline_icon.dds"/>
+         </UIAspect>
+         <UIHelpInfo name="" short="" long="" help="" ids="entityname:SealTrampoline"/>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="SealTrampoline"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared s_Zoopedia="zoopedia:zoopedia_showplatform:entry" s_Product="Marine"/>
+      <ZTPlacementData minimumDepth="3" icon3Doffset="0 0 0.918257" icon3Dscale="0.11" waterPlacement="false" landPlacement="false" tankPlacement="true" randomRotate="false" gridSnap="true" terrainFlatten="false"/>
+   </shared>
+   <binder>
+      <BFNamedBinder binderName="mainObj">
+         <instance>
+            <BFPhysObj>
+					<BFActorComponent actorfile="entities/objects/props/SealTrampoline/SealTrampoline.bfm" switch="0 30 60" />
+               <BFFakePhysicsComponent idleAnim="Jump_Idle" moveAnim="Jump_Used" escapeAnim="Stand_Idle" slideRate="2.0" maxEscapeTries="5"/>					
+               <BFGroundFitComponent heightOffset="0.0" floatOnWater="true" waterOffset="0.0"/>
+               <BFCollisionComponent grid="footprint" />
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+      <BFBinder>
+         <instance>
+            <ZTEconomyComponent cost="400">
+               <ZTTransaction name="build" costType="parent" type="debit" category="construction"/>
+               <ZTTransaction name="destroy" cost="80" costType="%parent" type="credit" category="recycling"/>
+               <ZTTransaction name="upkeep" cost="25" period="monthly" type="debit" category="upkeep"/>
+            </ZTEconomyComponent>
+         </instance>
+      </BFBinder>
+   </binder>
+</BFTypedBinder>

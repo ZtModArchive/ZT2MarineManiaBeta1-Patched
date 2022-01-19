@@ -1,0 +1,5 @@
+<TEXTKEY>
+   <key time="0" text="{Bip01 Head} snd 'ClimbOnToPlatform'"/>
+   <key time="0" text="{Bip01 Head} snd 'ClimbOnToPlatform_uw'"/> 
+	<key time=".35" text="{Bip01 Head} runsns strength=.2"/>     
+</TEXTKEY>

@@ -1,0 +1,62 @@
+<BFTypedBinder binderType="ShowPlatform_Upgraded_mm">
+   <types>
+      <entity>
+         <building>
+            <ShowPlatform>
+               <ShowPlatform_Upgraded_mm/>
+            </ShowPlatform>
+         </building>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity entityVersion="1">
+         <physObjParenting>
+            <parentObj parent="mainObj" child="canopy" rottype="use" postype="use"/>
+         </physObjParenting>
+      </BFGEntity>
+   </instance>
+   <shared>
+      <UIButton name="overviewicon">
+         <UIAspect>
+            <default image="ui/zoomap/icon_staff.dds"/>
+         </UIAspect>
+      </UIButton>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\objects\buildings\Platform_Show_mm\Platform_Show_Upgraded_mm_icon.dds"/>
+         </UIAspect>
+         <UIHelpInfo name="" short="" long="" help="" ids="entityname:ShowPlatform_Upgraded_mm"/>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="ShowPlatform_Upgraded_mm"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared s_Zoopedia="zoopedia:zoopedia_showplatform_upgraded:entry"/>
+      <ZTPlacementData icon3Doffset="0 0 0.918257" icon3Dscale="0.11"/>
+   </shared>
+   <binder>
+      <BFNamedBinder binderName="mainObj">
+         <instance>
+            <BFPhysObj>
+               <BFSimpleLODComponent modelfile="entities/objects/buildings/Platform_Show_mm/Platform_Show_Shadow_mm" switch="0 20 40"/>
+               <BFGFittingSurfaceComponent heightOffset="0.65"/>
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+      <BFNamedBinder binderName="canopy">
+         <instance>
+            <BFPhysObj>
+               <BFSimpleLODComponent modelfile="entities/objects/buildings/Platform_Show_mm/Platform_ShowUpgraded_mm" switch="0 20 40"/>
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+      <BFBinder>
+         <instance>
+            <ZTEconomyComponent cost="400">
+               <ZTTransaction name="build" costType="parent" type="debit" category="construction"/>
+               <ZTTransaction name="destroy" cost="80" costType="%parent" type="credit" category="recycling"/>
+               <ZTTransaction name="upkeep" cost="25" period="monthly" type="debit" category="upkeep"/>
+            </ZTEconomyComponent>
+         </instance>
+      </BFBinder>
+   </binder>
+</BFTypedBinder>

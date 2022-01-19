@@ -1,0 +1,6 @@
+<TEXTKEY>
+   <key time="0" text="{Bip01} snd 'Bathe'"/>
+   <key time="0" text="{Bip01} snd 'Bathe_uw'"/>  
+	<key time=".1" text="{Bip01 Head} runspl"/>   
+	<key time="1.5" text="{Bip01 Neck} runspl"/>   
+</TEXTKEY>

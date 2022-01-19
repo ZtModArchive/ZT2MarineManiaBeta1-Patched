@@ -1,0 +1,384 @@
+﻿ <ZT2Strings>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerIntro"  >Marine Show Photographer</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerOverviewShort"  >Explore the world of marine shows by taking exciting show photos! Complete all of the scenarios in this campaign to unlock the ??REWARDOBJECT.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerOverview"  >Ocean Domain, a marine zoo, has hired you to take publicity photos of their popular marine shows. It'll take a good eye and quick reflexes to get to get the pictures--though if you miss a shot you can always just wait for the next show to start!
+      <p/>
+      The zoo would like you to start with some walrus pictures. Take the following marine show photos:
+      <br/>
+			*  A Pacific walrus balancing a ball on its nose.
+			<br/>
+			*  A Pacific walrus throwing a ball through a hoop.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1Goals"  >
+      Take the following marine show photos:
+      <br/>
+			*  A Pacific walrus balancing a ball on its nose. 
+			<br/>
+			*  A Pacific walrus throwing a ball through a hoop.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1GoalsDone"  >You have completed the first set of marine show photos!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2"  >The zoo is very pleased with your first batch of marine show photos! Now they'd like you take some pictures of the bottlenose dolphin in action.
+      <p/>
+      Take the following photos:
+      <br/>
+			*  A bottlenose dolphin doing a corkscrew twist.
+			<br/>
+			*  A bottlenose dolphin jumping through a hoop.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2Goals"  >
+      Take the following marine show photos:
+      <br/>
+			*  A bottlenose dolphin doing a corkscrew twist.
+			<br/>
+			*  A bottlenose dolphin jumping through a hoop.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2GoalsDone"  >You have completed the second set of marine show photos!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPart3"  >
+Ocean Domain likes your style! They'd like you to take some more show photos for them, this time of the sea otter.
+      <p/>
+      Take the following marine show photos:
+      <br/>
+			*  A sea otter using the seal slide.
+			<br/>
+			*  A sea otter using a horn.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3Goals"  >
+      Take the following marine show photos:
+      <br/>
+			*  A sea otter using the seal slide.
+			<br/>
+			* A sea otter using a horn.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3GoalsDone"  >You have completed the third set of marine show photos!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPart4"  >
+Good work! Ocean Domain would like you to take one more set of photos. They want you to take some pictures of their biggest attraction--the orca.
+      <p/>
+      Take the following marine show photos to win the scenario:
+      <br/>
+			*  An orca spy jumping over a bar.
+			<br/>
+			*  An orca spy hopping.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4Goals"  >
+      Take the following marine show photos to win the scenario:
+      <br/>
+			*  An orca spy jumping over a bar.
+			<br/>
+			*  An orca spy hopping.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4GoalsDone"  >You have completed the last set of marine show photos!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerSuccessOverview"  >
+Excellent work! Ocean Domain is extremely pleased with all your pictures. As for you, now that you've seen what can be done in a marine show it's time for you to build some of your own.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerOverallGoal"  >Use your camera to take pictures of marine shows.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1Photo1Goal"  >
+      Take a photo of a Pacific walrus balancing a ball on its nose.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1Photo1GoalDone"  >You have taken a picture of a Pacific walrus balancing a ball on its nose!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1Photo2Goal"  >
+      Take a photo of a Pacific walrus throwing a ball through a hoop.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart1Photo2GoalDone"  >You have taken a picture of a Pacific walrus throwing a ball through a hoop!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2Photo1Goal"  >
+      Take a photo of a bottlenose dolphin doing a corkscrew twist.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2Photo1GoalDone"  >You have taken a picture of a bottlenose dolphin doing a corkscrew twist!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2Photo2Goal"  >
+      Take a photo of a bottlenose dolphin jumping through a hoop.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart2Photo2GoalDone"  >You have taken a picture of a bottlenose dolphin jumping through a hoop!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3Photo1Goal"  >
+      Take a photo of a sea otter using a seal slide.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3Photo1GoalDone"  >You have taken a picture of a sea otter using a seal slide!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3Photo2Goal"  >
+      Take a photo of a sea otter using a horn.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart3Photo2GoalDone"  >You have taken a picture of a sea otter using a horn!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4Photo1Goal"  >
+      Take a photo of an orca jumping over a bar.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4Photo1GoalDone"  >You have taken a picture of an orca jumping over a bar!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4Photo2Goal"  >
+      Take a photo of an orca spy hopping.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerPart4Photo2GoalDone"  >You have taken a picture of an orca spy hopping!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:MarineShowPhotographerCriticalNeeds"  >The needs for one of your show animals have gone critical, so the animal has been removed from the show. Consider increasing the length of your show's break to keep the show animals happy and healthy.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowIntro"  >Fine Tuning</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOverviewShort"  >You've been hired to liven up a sleepy little marine show. Can you dazzle the audience and create a three-star hit show? Complete all of the scenarios in this campaign to unlock the ??REWARDITEM.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOverview"  >A local zoo isn't happy with the success of their latest marine show, "Waldo the Wonder Walrus." The zoo has hired you to revamp the show and make it more popular.
+      <p/>
+		The zoo's board of directors would like you to increase the show's rating to three stars. You can do this however you like, but the board of directors suggests adding a different animal to the show. The board of directors will give you an additional $20,000 grant once your show reaches one star of fame.
+		<p/>
+		Make sure the show animals stay happy and healthy--if you don't take good care of them you may not be able to complete the scenario!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowTwoStars"  >
+      Things are looking good. Under your management the marine show has reached one star of fame. The board of directors has given you a $20,000 to continue developing the show. Better yet, they've promised an additional $40,000 grant if you can improve the show's fame to two stars.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowThreeStars"  >
+      Thanks to your improvements your show has climbed to two stars of fame! The board of directors has awarded you $40,000 as promised.
+      <p/>
+      Now the board would like you to take the show to the next level. Build up your show fame to three stars to make your mark in show business and win the scenario!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOverallGoal"  >Improve your marine show's star rating to three stars to complete the scenario. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOverallGoalDone"  >You have created a three-star marine show!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOneStarGoal"  >Improve your marine show's star rating to one star to receive a $20,000 grant. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowOneStarGoalDone"  >Your marine show has achieved a one-star rating!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowTwoStarGoal"  >Improve your marine show's star rating to two stars to receive a $40,000 grant.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowTwoStarGoalDone"  >Your marine show has achieved a two-star rating!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowThreeStarGoal"  >Improve your marine show's star rating to three stars to win the scenario.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowThreeStarGoalDone"  >Your marine show has achieved a three-star rating!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowSuccessOverview"  >
+      Congratulations! Your show has reached a three-star rating. The board of directors is delighted with you and the way you've revamped the marine show. You have a bright future ahead of you in show biz!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowPilotWhale"  >Once you've established your show's financial success by earning $7,500 in show donations the board of directors will acquire a pilot whale for your zoo at no cost to you.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowPilotWhaleSuccess"  >The zoo's board of directors are impressed that you've earned more than $7,500 in show donations! To help you with your show they've acquired a pilot whale. You'll find the pilot whale crated near the entrance to your zoo.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowPilotWhaleGoal"  >(Optional) Earn $7,500 in show donations to receive a free pilot whale.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowPilotWhaleDone"  >You earned more than $7,500 in show donations and received a free pilot whale!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorer"  >Rumor has it that undersea explorer Stephane Baleine has entered the zoo! If you can take a photo of this internationally-known celebrity watching a marine show then the board of directors will pay you a $10,000 bonus.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorerSuccess"  >You snapped a picture of world-famous undersea explorer Stephane Baleine watching your marine show! The board of directors has given you $10,000 to reward you for taking this valuable publicity photo.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorerGoal"  >(Optional) Take a photo of Stephane Baleine wataching a marine show to earn $10,000.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorerGoalDone"  >You received $10,000 for your photo of Stephane Baleine watching a marine show!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorerEntered"  >
+Undersea explorer Stephane Baleine has entered your zoo! Take a photo of him watching a marine show.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowFailureExplorer"  >
+Undersea explorer Stephane Baleine left the zoo before you could take a photo of him watching a marine show, so you won't receive a $5,000 bonus.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowExplorerName"  >Stephane Baleine</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowCriticalNeeds"  >The needs for one of your show animals have gone critical, so the animal has been removed from the show. Consider increasing the length of your show's break to keep the show animals happy and healthy.
+		<p/>
+		The zoo's board of directors has given you a stern warning--if this happens again you will fail the scenario!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:RevampShowCriticalNeedsFailure"  >Once again one of your show animals has been removed from the show because its needs have gone critical. Since this isn't the first time this has happened the zoo's board of directors has no choice but to terminate your employment. You have failed the scenario. Try taking better care of your show animals next time!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureIntro"  >Double Feature</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureOverviewShort"  >What's better than a zoo with a great marine show? A zoo with two marine shows! Complete all of the scenarios in this campaign to unlock the ??REWARDITEM.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureOverview"  >You've been hired to put on not one but two marine shows at the same time. To illustrate the diversity of marine mammals, the zoo's board of directors wants you to create two separate shows. One show must feature cetaceans--dolphins and whales--while the other must feature pinnipeds--seals, sea lions, and the walrus.
+		<p/>
+		Once you've created a show featuring a cetacean and a show containing a pinniped, have 150 guests visit each of the shows to win the scenario!
+		<p/>
+		(Hint: Once you create, say, a pilot whale show you can swap other cetaceans into the show if you like. For example you might replace the pilot whale with an orca. Just make sure there's always at least one cetacean in the cetacean show and at least one pinniped in the pinniped show--otherwise you'll fail the scenario!) 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanSetup"  >
+      You've created a show featuring a cetacean! As a reward for your efforts, the zoo's board of directors has given you a $10,000 grant. Once 150 guests visit your cetacean show, the board will give you an additional $20,000. (Hint: Make sure there's always at least one cetacean in this show--or else!)
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanGuests"  >
+      More than 150 guests have seen your cetacean show! The board of directors has awarded you $20,000 for doing such a good job.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedSetup"  >
+      You've created a show featuring a pinniped! As a reward for your efforts, the zoo's board of directors has given you a $10,000 grant. Once 150 guests visit your pinniped show, the board will give you an additional $20,000. (Hint: Make sure there's always at least one pinnped in this show--or else!)
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedGuests"  >
+		Over 150 guests have thrilled to your pinniped show! The board of directors has given you a $20,000 grant as promised.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureOverallGoal"  >Create two shows--one with cetaceans and one with pinnipeds--and have 150 guests attend each. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureOverallGoalDone"  >You have created two successful shows featuring cetaceans and pinnipeds!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanSetupGoal"  >Create a marine show featuring a cetacean to receive a $10,000 grant. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanSetupGoalDone"  >You have created a marine show featuring a cetacean.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanGuestGoal"  >Have a total of 150 guests view your cetacean show to receive a $20,000 grant.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanGuestGoalDone"  >Over 150 guests have viewed your cetacean show!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedSetupGoal"  >Create a separate marine show featuring a pinniped to receive a $10,000 grant. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedSetupGoalDone"  >You have created a marine show featuring a pinniped.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedGuestGoal"  >Have a total of 150 guests view your pinniped show to receive a $20,000 grant.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedGuestGoalDone"  >Over 150 guests have viewed your pinniped show!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureSuccessOverview"  >
+      Good work! Both of your shows have been seen by more than 150 guests. You've done an excellent job creating shows using two very different types of animal.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographer"  >World-famous wildlife photographer Eleanor Avus has entered your zoo! To receive a $20,000 cash grant, take the following photos:
+      <br/>
+			*  Eleanor Avus eating or drinking.
+			<br/>
+			*  Eleanor Avus taking a photograph.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerSuccess"  >Well done! You've received $20,000 as a reward for taking photos of world-famous photographer Eleanor Avus.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerGoal"  >(Optional) Take the following photos to receive a $20,000 grant:
+      <br/>
+			*  Eleanor Avus eating or drinking.
+			<br/>
+			*  Eleanor Avus taking a photograph.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerGoalDone"  >You received $20,000 for your photos of world-famous wildlife photographer Eleanor Avus!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerEntered"  >
+Wildlife photographer Eleanor Avus has entered your zoo!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerFailure"  >
+Wildlife photographer Eleanor Avus left the zoo before you could take your photos, so you won't receive a $20,000 bonus.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerName"  >Eleanor Avus</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerEatingGoal"  >
+      Take a photo of Eleanor Avus eating or drinking.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerEatingGoalDone"  >
+      You took a photo of Eleanor Avus eating or drinking!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerPhotographing"  >
+      Take a picture of Eleanor Avus taking a photograph.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePhotographerPhotographingDone"  >
+      You took a picture of Eleanor Avus taking a photograph!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCetaceanFailure"  >
+      You've removed all the cetaceans from your shows and now the board of directors is removing you from your position! The zoo's board is shocked that you have ignored your instructions this way. You have failed the scenario!       
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeaturePinnipedFailure"  >
+      You've removed all the pinnipeds from your shows and now the board of directors is removing you from your position! The zoo's board of directors is shocked that you have ignored your instructions this way. You have failed the scenario!    
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:DoubleFeatureCriticalNeeds"  >The needs for one of your show animals have gone critical, so the animal has been removed from the show. Consider increasing the length of your show's break to keep the show animals happy and healthy.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksIntro"  >Starmaker</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksOverviewShort"  >Transform an untrained young dolphin into a skilled marine show star! Complete all of the scenarios in this campaign to unlock the ??REWARDITEM.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksOverview"  >
+      There's a new arrival at your zoo--Tupoupou the bottlenose dolphin! You've been assigned to be his trainer. It will be your job to transform this promising youngster into a marine show star. 
+		<p/>
+		Your first goal is to teach Tupoupou the basics. Bring Tupoupou up to a 50% skill level in each of the following three tricks:
+      <br/>
+			*  Jump
+			<br/>
+			*  Water Walk
+			<br/>
+			*  Spy Hop
+		<p/>
+		Of course, you'll also need to take good care of Tupoupou. Make sure he stays happy and healthy, or you may fail the scenario!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickOne"  >
+      With your help Tupoupou has learned Jump to the 50% level!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickTwo"  >
+      Thanks to you Tupoupou can now perform Water Walk at the 50% level!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickThree"  >
+      Tupoupou can now do Spy Hop at the 50% level!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksMasterTrick"  >
+		Thanks to your patient guidance Tupoupou has learned the basics of three different tricks! Now it's time to take your protegee to the next level and make him a master of marine showmanship. Train any one of Tupoupou's tricks up to the 90% level to win the scenario.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksOverallGoal"  >Transform Tupoupou the dolphin into a marine show star. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksOverallGoalDone"  >Tupoupou is now a star and it's all thanks to you!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksThreeTricksGoal"  >Train Tupoupou the dolphin up to a 50% level in three different tricks. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksThreeTricksGoalDone"  >You have trained Tupoupou up to 50% in three different tricks!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickOneGoal"  >Train Tupoupou to 50% in Jump. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickOneGoalDone"  >You have trained Tupoupou to 50% in Jump!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickTwoGoal"  >Train Tupoupou to 50% in Water Walk. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickTwoGoalDone"  >You have trained Tupoupou to 50% in Water Walk!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickThreeGoal"  >Train Tupoupou to 50% in Spy Hop. 
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksTrickThreeGoalDone"  >You have trained Tupoupou to 50% in Spy Hop!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksMasterTrickGoal"  >Train Tupoupou to a 90% level in any trick to win the scenario.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksMasterTrickGoalDone"  >You have trained Tupoupou to more than 90% in a trick!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksSuccessOverview"  >
+      Congratulations! Tupoupou has mastered one of his tricks and is well on his way to becoming a marine show star. You've done a fine job of training a show animal while taking good care of him at the same time.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksAttendance"  >To help you in your training efforts the owners of the zoo have offered you a $20,000 bonus if you can attract a grand total of more than 100 guests to the zoo. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksAttendanceSuccess"  >More than 100 guests have attended your zoo! As a reward you have been given a $20,000 bonus.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksAttendanceGoal"  >(Optional) Have a grand total of more than 100 guests visit your zoo to receive a $20,000 bonus.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksPhotographerGoalDone"  >More than 100 guests have visited your zoo!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDonations"  >To help build show attendance the zoo's owners are offering you an incentive. If you can obtain a grand total of 100 show donations, they will pay you a $20,000 bonus. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDonationsSuccess"  >Over 100 guests have given you show donations! As a reward you have received a $20,000 grant.</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDonationsGoal"  >(Optional) Have a grand total of more than 100 guests give show donations to receive a $20,000 bonus.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDonationsGoalDone"  >More than 100 guests have donated to your show!</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksCriticalNeeds"  >Tupoupou's needs have gone critical while performing so the animal has been removed from the show. Consider increasing the length of your show's break to keep Tupoupou happy and healthy. Be careful--the next time this happens you will fail the scenario!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksCriticalNeedsFailure"  >Once again Tupoupou's needs have gone critical while performing, and he has been removed from the show. The zoo's owners have decided that Tupoupou's on the road to stardom--but you won't be training him any more. You have been fired from your position. Next time, take better care of Tupoupou!
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:TrainTricksDolphinDeadFailure"  >With Tupoupou gone you can never achieve your goal of making him a marine show star! You have failed the scenario.
+		</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowIntro"  >Marine Show Mogul</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowOverviewShort"  >Create a five-star marine show in the ultimate test of showmanship! Complete all of the scenarios in this campaign to unlock the ??REWARDITEM.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowOverview"  >Your terrific track record creating popular marine shows has attracted attention. The owners of a small zoo would like you to manage the zoo and build a five-star marine show for them. You can develop the zoo and your five-star show in any way you like.
+      <p/>
+      There is one catch, though--the zoo owners can't afford to give you much money at the start. However the owners have promised that they will provide an cash grant for every additional star of show fame you earn. To begin with the owners will give you a $10,000 cash grant when you create a one-star show.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowTwoStars"  >
+      Your fledgling show has earned its first star of fame! The owners have given you a $10,000 cash grant as promised. They promise they'll give you another grant, this one for $20,000, when your show reaches two stars of fame.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowThreeStars"  >
+      People all over the area are talking about your show! Now that the show has hit two stars of fame, the pleased zoo owners have given you $20,000 as a reward. They're eager for you to improve the show even more. If you can reach three stars of zoo fame, they'll give you a $40,000 cash award!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowFourStars"  >
+      Your show's fame has grown to three stars and people are traveling hundreds of miles just to see it. The zoo owners are delighted with your progress. They've given you a $40,000 cash grant, and promise to give you another $60,000 when your show reaches four stars. 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowFiveStars"  >
+      Your show's reputation continues to grow. The show has reached four stars of fame and is widely considered to be one of the best marine shows in the entire country! You've received a $60,000 cash grant. Use it to tackle the ultimate challenge--a five-star show! 
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowSuccessOverview"  >
+      Your five-star show is a smash hit! Both the show and your zoo are massive successes. Best of all, your show has helped people all around the world learn more about marine animals and their amazing abilities.
+      <p/>
+Completing this campaign has unlocked the ??REWARDOBJECT object. You can use this object in all of your future Zoo Tycoon 2: ??PRODUCTNAME games.      
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowAttendance"  >As they say in show biz, nothing succeeds like success. If you can get 100 people to attend your show, the buzz about the show's popularity will attract more guests to your zoo and your show.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowOverallGoal"  >Create a five-star marine show.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowOneStarGoal"  >Earn a one-star rating for your show to receive a cash grant.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowOneStarGoalDone"  >You have earned a one-star show rating!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowTwoStarsGoal"  >Earn a two-star rating for your show to receive a cash grant.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowTwoStarsGoalDone"  >You have earned a two-star show rating!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowThreeStarsGoal"  >Earn a three-star rating for your show to receive a cash grant.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowThreeStarsGoalDone"  >You have earned a three-star show rating!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowFourStarsGoal"  >Earn a four-star rating for your show to receive a cash grant.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowFourStarsGoalDone"  >You have earned a four-star show rating!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowAttendanceGoal"  >Have more than 100 people attend your show to attract additional guests to your zoo.
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaign:FiveStarShowAttendanceGoalDone"  >More than 100 people have attended your show!
+      </LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignshort"  >Marine Shows</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS1"  >Marine Show Photographer</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS1short"  >Marine Show Photographer</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS2"  >Fine Tuning</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS2short"  >Fine Tuning</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS3"  >Double Feature</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS3short"  >Double Feature</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS4"  >Starmaker</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS4short"  >Starmaker</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS5"  >Marine Show Mogul</LOC_STRING>
+      <LOC_STRING _locID="MarineShowsCampaignLabels:MarineShowsCampaignS5short"  >Marine Show Mogul</LOC_STRING>
+   
+</ZT2Strings>

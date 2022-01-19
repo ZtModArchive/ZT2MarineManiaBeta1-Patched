@@ -1,0 +1,6 @@
+<TEXTKEY>
+   <key time="0" text="{Bip01 Head} snd 'WashFood'"/>
+   <key time="0" text="{Bip01 Head} snd 'WashFood_uw'"/>   
+	<key time="0.3" text="{Bip01 L Hand} runspl strength=.1"/>      
+	<key time="1.27" text="{Bip01 R Hand} runspl strength=.1"/>      
+</TEXTKEY>

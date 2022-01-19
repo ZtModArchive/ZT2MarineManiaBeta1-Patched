@@ -1,0 +1,5 @@
+<TEXTKEY>
+   <key time="0" text="{Bip01 Head} snd 'OnLand_2Swim'"/>
+   <key time="0.57" text="{Bip01 Head} runspl"/>
+   <key time="2.3" text="{Bip01 Tail} runspl"/>   
+</TEXTKEY>

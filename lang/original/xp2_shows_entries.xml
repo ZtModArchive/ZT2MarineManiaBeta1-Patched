@@ -1,0 +1,72 @@
+﻿<ZT2Strings>
+
+	 <zoopedia_shows>
+	  <entry>Show and Tank Objects</entry>
+	 <text>
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<p/>Create a show by placing a show platform in a tank containing show animals (or connected to tanks containing show animals), placing grandstands facing the show tank, and scheduling tricks.
+			<p/>To view information about a specific show or tank object, click the name of the show or tank object in the list on the left.	  
+		  </color>
+		 </cell>
+		</cell>
+	  </text>  
+	 </zoopedia_shows>
+
+	 <zoopedia_bigscreentv>
+	  <entry>Big Screen TV</entry>
+	 <text>
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/BigScreenTV/BigScreenTV_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>The big screen TV gives your guests a close-up view of your marine shows and makes them even more exciting to watch.
+		  </color>
+		 </cell>
+		</cell>
+	  </text>  
+	 </zoopedia_bigscreentv>
+
+	 <zoopedia_showplatform>
+	  <entry>Show Platform</entry>
+	 <text>
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/buildings/Platform_Show_mm/Platform_Show_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>You must place a show platform in a tank before you can create a show. The MC runs the show from the show platform and animals like the sea lion perform tricks on it. You also open the show scheduler by clicking on the show platform.
+		  </color>
+		 </cell>
+		</cell>
+	  </text>  
+	 </zoopedia_showplatform>
+
+	 <zoopedia_showplatform_upgraded>
+	  <entry>Upgraded Show Platform</entry>
+	 <text>
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/buildings/Platform_Show_mm/Platform_Show_Upgraded_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>You must place a show platform in a tank before you can create a show. The MC runs the show from the show platform and animals like the sea lion perform tricks on it. You also open the show scheduler by clicking on the show platform.
+			<p/>The colorful upgraded show platform is unlocked by completing the Marine Shows campaign.
+		  </color>
+		 </cell>
+		</cell>
+	  </text>  
+	 </zoopedia_showplatform_upgraded>
+
+</ZT2Strings>

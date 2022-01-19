@@ -1,0 +1,112 @@
+﻿<ZT2Strings>
+
+   <zoopedia_aquarium>
+      <entry>Aquariums</entry>
+      <text>
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Aquarium_Jellyfish\Aquarium_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Aquarium_Seahorse\Aquarium_Seahorse_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Aquarium_TropicalFish\Aquarium_TropicalFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Aquariums make perfect showcases for smaller marine animals. Guests are entertained by seeing the animals up close, and small, portable aquariums can also be placed almost anywhere in your zoo without taking up as much space as a full exhibit.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_aquarium>
+
+   <zoopedia_cannon>
+      <entry>Pirate Cannon</entry>
+      <text>
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Cannon/Cannon_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>This antique cannon adds an authentic pirate feel to your exhibits. Place the cannon in a tank and it will shoot out streams of bubbles or place it on land to decorate your zoo.	
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_cannon>
+
+   <zoopedia_koi>
+      <entry>Koi</entry>
+      <text>
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\units\animals\Koi\Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Koi (also known as nishikigoi) are an ornamental variety of the common carp that has been specially bred for brilliant colors and attractive patterns. Koi make a decorative addition to any tank and will help entertain your guests. Just don't put them in the same tank as sharks or other marine predators!
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_koi>
+   
+   <zoopedia_drinkingfountain_mm>
+      <entry>Drinking Fountain, Nautilus</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_mm\drinkingfountain_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Though it doesn't produce any revenue for the zoo, guests are always grateful for a long cool sip of water from the nautilus drinking fountain.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_drinkingfountain_mm>   
+
+   <zoopedia_fountain_splash_mm>
+      <entry>Beluga Splash Fountain</entry>
+      <text>
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/FountainSplash_mm/FountainSplash_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>This fountain features adorable belugas that splash passers-by with water jets. This fountain can be placed right on a path like an arch. Children love to play in the splash fountain!	
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountain_splash_mm>
+   
+   <zoopedia_seahorseride>
+      <entry>Seahorse Bouncy Ride</entry>
+      <text>
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Seahorse_mm/BouncyRide_Seahorse_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Children love to pretend to explore the ocean's depths on this giant-sized seahorse.	
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_seahorseride>
+
+</ZT2Strings>

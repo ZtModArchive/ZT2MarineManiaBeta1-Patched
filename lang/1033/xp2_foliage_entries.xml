@@ -1,0 +1,40 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_phaeophyta:entry"  >Marine, Phaeophyta</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_phaeophyta:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Phaeophyta/Phaeophyta_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+Phaeophyta, also known as brown algae or Gulfweed, describes any of several tropical marine seaweeds that drift in large, floating masses. Gulfweed consists of branches with leaflike blades and numerous small, airfilled sacs that keep the gulfweed afloat. One of the most widely recognized species is the common gulfweed, or sargassum weed, a kind of brown algae. The weed drifts in large masses in the Gulf Stream, which flows northeast from the Gulf of Mexico, and in the Sargasso Sea, a large area of the Atlantic Ocean between the West Indies and the Azores. 
+               </cell>
+            </cell>
+            <p/>
+            <cell width="260"/>
+            <cell width="620">
+Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tussacgrass:entry"  >Plant, Tussac Grass</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tussacgrass:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/Papyrus/Papyrus_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+Tussac grass is a sturdy land grass native to South America, the Falkland Islands, Australia, and New Zealand. It grows in dense clumps of about 2 meters (6 feet) high along coastal areas, and has the appearance of large tufts of hair. It has been introduced into Scotland as a source of fodder because of its ability to grow in extremely hostile conditions.               
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+
+</ZT2Strings>

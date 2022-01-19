@@ -1,0 +1,45 @@
+﻿<BFTypedBinder binderType="PileOfRocks">
+   <types>
+      <entity>
+         <prop>
+	         <PileOfRocks/>
+         </prop>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity entityVersion="1"/>
+   </instance>
+   <shared>
+   	<ZTDevComponent/>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\objects\props\PileOfRocks\PileOfRocks_icon.dds"/>
+         </UIAspect>
+         <UIHelpInfo name="" short="" long="" help="" ids="entityname:PileOfRocks"/>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="PileOfRocks"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared s_Zoopedia="zoopedia:zoopedia_pileofrocks:entry" s_Product="Marine"/>
+      <ZTPlacementData icon3Doffset="0 0 0.49" icon3Dscale="1.13" waterPlacement="false" landPlacement="false" tankPlacement="true" randomRotate="false" gridSnap="true" terrainFlatten="false" minimumDepth="3"/>
+   </shared>
+   <binder>
+      <BFNamedBinder binderName="mainObj">
+         <instance>
+            <BFPhysObj>
+					<BFSimpleLODComponent modelfile="entities/objects/props/PileOfRocks/PileOfRocks" switch="0 30 60" />
+               <BFGroundFitComponent heightOffset="0.0" floatOnWater="true" waterOffset="0.0"/>
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+      <BFBinder>
+         <instance>
+            <ZTEconomyComponent cost="400">
+               <ZTTransaction name="build" costType="parent" type="debit" category="construction"/>
+               <ZTTransaction name="destroy" cost="80" costType="%parent" type="credit" category="recycling"/>
+               <ZTTransaction name="upkeep" cost="25" period="monthly" type="debit" category="upkeep"/>
+            </ZTEconomyComponent>
+         </instance>
+      </BFBinder>
+   </binder>
+</BFTypedBinder>

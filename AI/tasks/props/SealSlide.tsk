@@ -1,0 +1,137 @@
+<BFAITaskTemplateList>
+   <BFAITaskTemplate Name="Slide_Failure" reserveTag="Slide_Failure" UniqueID="SealSlide:Slide_Failure">
+     <BFAICreateData>
+       <Subjects>
+         <SeaLionCalifornia_Adult/>
+         <Qualifiers isSwimming="true"/>
+       </Subjects>
+       <Targets>
+         <fromToken/>
+         <Qualifiers inWater="true"/>
+       </Targets>
+       <Objects>
+         <t_SlideFailure/>
+       </Objects>
+     </BFAICreateData>
+     <BFAIEvalData fixedScore="2000"/>
+     <BFBehExecTask>
+       <BFBehEnter/>
+       <BFBehPlaySet behSet="useContainer"/>
+     </BFBehExecTask>
+     <BFAICompletionData>
+       <BFBehExecTask>
+          <BFBehSendToken>
+              <BFAITokenList>
+                 <BFAIToken Name="t_FailureReaction" GiveTo="MC" Payload="subject" Radius="50" Timeout="10" Reconsider="true"/>
+              </BFAITokenList>
+           </BFBehSendToken>
+        </BFBehExecTask>
+     </BFAICompletionData>
+     <BFAIFailureData>
+       <BFBehExecTask>
+         <BFBehPlaySet behSet="FailureSet"/>
+       </BFBehExecTask>
+     </BFAIFailureData>
+   </BFAITaskTemplate>
+   <BFAITaskTemplate Name="Slide_Success" reserveTag="Slide_Success" UniqueID="SealSlide:Slide_Success">
+      <BFAICreateData>
+         <Subjects>
+            <SeaLionCalifornia_Adult/>
+            <Qualifiers isSwimming="true"/>
+         </Subjects>
+         <Targets>
+            <fromToken/>
+            <Qualifiers inWater="true"/>
+         </Targets>
+         <Objects>
+            <t_SlideSuccess/>
+         </Objects>
+      </BFAICreateData>
+      <BFAIEvalData fixedScore="2000"/>
+      <BFBehExecTask>
+         <BFBehEnter/>
+         <BFBehPlaySet behSet="useContainer"/>
+      </BFBehExecTask>
+      <BFAICompletionData>
+         <BFAIAttributeFloatMap exercise="-5" stimulation="-5" rest="5"/>
+         <BFBehExecTask>
+          <BFBehSendToken>
+              <BFAITokenList>
+                 <BFAIToken Name="t_SuccessReaction" GiveTo="MC" Payload="subject" Radius="50" Timeout="10" Reconsider="true"/>
+              </BFAITokenList>
+           </BFBehSendToken>
+            <ZTBehFeedback>
+               <ZTFeedbackData>
+                  <ZTEmoticonInfo emoticonName="EmoteAnimalExerciseGood"/>
+               </ZTFeedbackData>
+            </ZTBehFeedback>
+         </BFBehExecTask>
+      </BFAICompletionData>
+      <BFAIFailureData>
+         <BFBehExecTask>
+            <BFBehPlaySet behSet="FailureSet"/>
+         </BFBehExecTask>
+      </BFAIFailureData>
+   </BFAITaskTemplate>
+   <BFAITaskTemplate Name="Slide_Critical" reserveTag="Slide_Critical" UniqueID="SealSlide:Slide_Critical">
+      <BFAICreateData>
+         <Subjects>
+            <SeaLionCalifornia_Adult/>
+            <Qualifiers isSwimming="true"/>
+         </Subjects>
+         <Targets>
+            <fromToken/>
+            <Qualifiers inWater="true"/>
+         </Targets>
+         <Objects>
+            <t_SlideCritical/>
+         </Objects>
+      </BFAICreateData>
+      <BFAIEvalData fixedScore="2000"/>
+      <BFBehExecTask>
+         <BFBehEnter/>
+         <BFBehPlaySet behSet="useContainer"/>
+      </BFBehExecTask>
+      <BFAICompletionData>
+         <BFAIAttributeFloatMap exercise="-5" stimulation="-5" rest="5"/>
+         <BFBehExecTask>
+          <BFBehSendToken>
+              <BFAITokenList>
+                 <BFAIToken Name="t_CriticalReaction" GiveTo="MC" Payload="subject" Radius="50" Timeout="10" Reconsider="true"/>
+              </BFAITokenList>
+           </BFBehSendToken>
+            <ZTBehFeedback>
+               <ZTFeedbackData>
+                  <ZTEmoticonInfo emoticonName="EmoteAnimalExerciseGood"/>
+               </ZTFeedbackData>
+            </ZTBehFeedback>
+         </BFBehExecTask>
+      </BFAICompletionData>
+      <BFAIFailureData>
+         <BFBehExecTask>
+            <BFBehPlaySet behSet="FailureSet"/>
+         </BFBehExecTask>
+      </BFAIFailureData>
+   </BFAITaskTemplate>
+   <BFAITaskTemplate Name="Slide_Training" Priority="85" reserveTag="Slide_Training" UniqueID="SealSlide:Slide_Training">
+     <BFAICreateData>
+       <Subjects>
+          <SeaLionCalifornia_Adult/>
+          <Qualifiers isSwimming="true"/>
+       </Subjects>
+       <Targets>
+         <fromToken/>
+         <Qualifiers_AND inWater="true"/>
+       </Targets>
+       <Objects>
+         <t_FPTSummonSeaLionCaliforniaSlide/>
+       </Objects>
+     </BFAICreateData>
+     <BFAIEvalData fixedScore="95"/>
+     <BFBehExecTask>
+       <BFBehEnter/>
+     </BFBehExecTask>
+     <BFAICompletionData/>
+     <BFAIFailureData/>
+   </BFAITaskTemplate>
+</BFAITaskTemplateList>

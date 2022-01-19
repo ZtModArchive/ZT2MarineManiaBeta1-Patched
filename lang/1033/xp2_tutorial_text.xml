@@ -1,0 +1,327 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="xp2_tutorial1:welcome"  >Welcome! In this tutorial you'll learn how to build a basic tank, change its biome, place marine animals, and place a tank filter. When you're ready to begin, click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanelHeading"  >Construction Panel</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanel"  >Let's get started! To build a tank, click the Construction button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanelCompleted"  >Great! Notice the new Tank Building tab? Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openTankBuildingTabHeading"  >Tank Building</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openTankBuildingTab"  >Click the Tank Building tab.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openTankBuildingTabCompleted"  >Building tank walls is very similar to building fences. Just like fences, there are three basic ways to place tank wall--Freeform Tank Placement Mode, Rectangular Tank Placement Mode, and Octagonal Tank Placement mode. Unlike fences, though, you start out in Rectangular Tank Placement Mode. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAcrylicTankWallHeading"  >Acrylic Tank Wall</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAcrylicTankWall"  >To start building a tank, first click the Acrylic Tank Wall.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAcrylicTankWallCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankWallsHeading"  >Tank Building</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankWalls"  >See the large rectangle drawn in the dirt at the end of the path? We're going to place an acrylic tank inside it. Click in the top left corner of the rectangle, near the fountain. Hold the mouse button down and drag to the bottom right corner, near the flower bed. You'll see a preview of the tank as you drag. When the tank is how you'd like it to be, release the mouse button to build the tank</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankWallsCompleted"  >Well done! Now let's place a tank entrance and a donation box. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankEntranceHeading"  >Tank Entrance</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankEntrance"  >You'll notice that you now have a tank entrance on your cursor. Rectangular Tank Placement Mode automatically prompts you to place a tank entrance and donation box after you build a tank. Click the tank entrance cursor on the tank wall to place a tank entrance.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeTankEntranceCompleted"  >Zookeepers and trainers use tank entrances to get inside the tank. Be sure to always place a tank entrance or else zookeepers won't be able to take care of the animals! Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeDonationBoxHeading"  >Donation Box</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeDonationBox"  >You now have a donation box on your cursor. Click the donation box cursor on the path near your tank to place a donation box.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeDonationBoxCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallButtonHeading"  >Raise Tank Wall</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallButton"  >You can increase the height of your tank's wall by using the Raise Tank Wall tool. Click the Raise Tank Wall button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallButtonCompeted"  >You now have a circular blue cursor that shows the Raise Wall tool is active. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallToolHeading"  >Raise Tank Wall</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallTool"  >Click the cursor on the tank wall to raise the tank wall. Click and hold to raise it more.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:raiseTankWallToolCompleted"  >The Lower Tank Wall button works in a similar way. You can also raise and lower tank walls without using the buttons. Just put your cursor over the top of a tank wall. When the cursor turns into a hand, click and hold to pull the tank wall up or down. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorButtonHeading"  >Lower Tank Floor</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorButton"  >Now let's make the tank a bit deeper. Click the Lower Tank Floor Button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorButtonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorToolHeading"  >Lower Tank Floor</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorTool"  >The Lower Tank Floor tool works much like the Raise Tank Wall tool. Click the circular blue cursor on the tank floor to lower it. Click and hold to lower the floor more.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:lowerTankFloorToolCompleted"  >Good! You can raise tank floors in a similar way. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectLandscapingHeading"  >Landscaping</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectLandscaping"  >When you first place a tank the water inside it starts out using the biome of the terrain underneath. For example, since we just created a tank on grassland, the water inside the tank is grasslands water. Let's change it to reef water instead so that we can put a manta ray inside the tank. Click the Landscaping tab.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectLandscapingCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectFilterBiomesHeading"  >Filter Biomes</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectFilterBiomes"  >Now select the Filter Biomes button to display the list of available biomes.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectFilterBiomesCompleted"  >You'll notice that there are four new biomes just for marine animals--Benthic, Coastal, Pelagic, and Reef. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectReefHeading"  >Reef Biome</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectReef"  >Scroll through the list of biomes and select the Reef biome.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectReefCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectDeepWaterHeading"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectDeepWater"  >Click on the Deep Water button, then click on the water inside the tank.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectDeepWaterCompleted"  >And there you have it! The tank is now full of nice warm Reef water.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectPlantsHeading"  >Decorating the Tank</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectPlants"  >Now let's decorate the tank. Click the Plants and Corals tab.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectPlantsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectCoralHeading"  >Select Blue-Green Coral</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectCoral"  >We're going to add some blue-green coral to the tank. Click the blue-green coral and then place some inside the tank.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectCoralCompleted"  >Good job! Did you know coral is actually a colony of thousands of small animals? Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAnimalsButtonHeading"  >Animals Button</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAnimalsButton"  >You can add more coral, reef rocks, and other decorations to your tank later on, but for now let's move on. We're going to add a manta ray to your tank. Click the Animals button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectAnimalsButtonCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectFilterAnimalsHeading"  >Filter Animals</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectFilterAnimals"  >Now click the Filter Animals button to display a list of biomes.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectFilterAnimalsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectReef2Heading"  >Reef Biome</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectReef2"  >Now scroll through the lift and select the Reef biome from the list of filters.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:selectReef2Completed"  >You're now viewing only the reef animals. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeRayHeading"  >Manta Ray</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeRay"  >Click on the manta ray and then place it inside the tank.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeRayCompleted"  >Good! Now let's add a water filter to the tank and we'll be all done. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanel2Heading"  >Construction Panel</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanel2"  >Water filters help keep your tanks clean and your animals healthy. Click the Construction button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openConstructionPanel2Completed"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openShowObjectsHeading"  >Show and Tank Objects</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openShowObjects"  >Now click the Show and Tank Objects tab.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:openShowObjectsCompleted"  >Some of the items here are only used in shows, but the water filter can be used on any tank. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeWaterFilterHeading"  >Water Filter</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeWaterFilter"  >Now click the water filter and then place it just outside your tank, right next to the tank wall. Note that you can only place the water filter next to a tank wall!</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:placeWaterFilterCompleted"  >Great! The water filter cleans the water and keeps the tank from becoming dirty. Tank filter need to be maintained by maintenance workers--if not, the filters may break down. You can also repair broken water filters yourself in first person mode.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial1:tutorial_complete"  >
+ 		Congratulations! You've finished the basic tank construction tutorial. 
+         <p/>  
+      To play the next tutorial and learn about advanced tank construction techniques, click the check button. 
+         <p/>
+      To return to the Main Menu, click the X button.
+      </LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:welcome"  >Welcome! In this tutorial you will learn advanced tank construction techniques that enable you to combine tanks and land into a single exhibit. Click the check button when you are ready to begin.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:hybridTankIntroHeading"  >Hybrid Tanks</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:hybridTankIntro"  >This tutorial will teach you two different ways to make hybrid tanks. Hybrid tanks combine tank walls with land exhibits. They're perfect for animals that live both on land and in water. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:hybridTankIntroCompleted"  >For example, the tundra exhibit with a polar bear you see here is a hybrid tank. We're going to build something similar for the coastal biome. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToCoastalHeading"  >Coastal Exhibit</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToCoastal"  >There's an empty coastal exhibit with a large pond next to the polar bear exhibit. Scroll over to the coastal exhibit. When you're done, click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToCoastalComplete"  >Good! We're going to turn the empty coastal exhibit into a hybrid tank. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:openConstructionPanelHeading"  >Construction Panel</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:openConstructionPanel"  >First, let's build a tank wall across the pond. Click the Construction Panel button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:openConstructionPanelCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectTankBuildingTabHeading"  >Tank Building</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectTankBuildingTab"  >Click the Tank Building tab.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectTankBuildingTabCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectFreeformHeading"  >Freeform Tank Placement Mode</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectFreeform"  >Now click Freeform Tank Placement Mode.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectFreeformCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:placeAcrylicTankWallHeading"  >Acrylic Tank Wall</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:placeAcrylicTankWall"  >Click Acrylic Tank Wall, then place a tank wall that connects the fence on one side of the pond with the fence on the other side of the pond.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:placeAcrylicTankWallCompleted"  >Well done! Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:openLandscapingPanelHeading"  >Landscaping</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:openLandscapingPanel"  >Now we're going to fill in half of the pond with dirt. Click the Landscaping button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:openLandscapingPanelCompleted"  >You may want to change the current biome to Grassland if it isn't already set to that. Click on the check button when you are ready to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:paintDirtHeading"  >Dirt</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:paintDirt"  >Click on the dirt biome brush, then paint dirt over the pond outside the fence and tank wall. Keep painting until all of the water outside of the tank wall is gone.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:paintDirtComplete"  >Good job! The last step is to create a lowered viewing area to permit guests to get a good view inside the tank. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectHabitatHeading"  >Habitat Editor Tools</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectHabitat"  >Click on the Habitat Editor Tools tab.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectHabitatCompleted"  >Did you notice that this panel looks different? It's been re-designed to make it clearer what each tool does. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectDitchHeading"  >Create Ditch</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectDitch"  >Click on the Create Ditch tool, then paint a ditch along the front of the tank wall.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:selectDitchCompleted"  >That's the idea! Later on you can go back and work on the fine details, like putting a path in front of the tank and smoothing out the path. You can also add some green sea turtles to the exhibit--they really work well in hybrid tanks! Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToPelagicHeading"  >Pelagic Tank</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToPelagic"  >Right now, though, let's learn a different and even easier way to make a hybrid exhibit. Find the pelagic tank next to the coastal exhibit--it's the tank containing a bubble-emitting clam. Scroll over to the pelagic tank then click the check button when you're ready to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:scrollToPelagicCompleted"  >Notice the fenced-in area in back of the tank? We're going to combine the fenced-in area and the tank into a hybrid tank. We can do it in just one step! Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:pullDownTankWallHeading"  >Pull Down Tank Wall</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:pullDownTankWall"  >Put your cursor over the top of the back tank wall--the tank wall next to the fenced-in section--and wait for the cursor to change into a hand icon Then hold down the Shift key and click and drag down with the mouse. Pull the tank wall all the way down.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:putDownTankWallCompleted"  >Because you held down the Shift key you only pulled down one side of the tank wall. Now an animal can use both the tank section and the land section of the exhibit. You've created a hybrid tank!</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial2:tutorial_complete"  >
+         
+         Congratulations! You've completed the advanced building techniques tutorial! Now you can experiment with different kinds of hybrid tanks in your zoo.
+         <p/>       
+			To play the next tutorial and learn how to train marine animals to do tricks, click the check button. 
+         <p/>  
+      	To return to the Main Menu, click the X button.
+      </LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:welcome"  >Welcome! In this tutorial you'll learn two different ways to teach marine animals to do tricks. Guests enjoy watching the animals do tricks at marine shows. When you're ready to begin, click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingIntroHeading"  >Training Animals</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingIntro"  >In Zoo Tycoon 2: Marine Mania you can train certain marine animals to do trained behaviors or tricks. The animals can then perform these tricks in marine shows. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingIntroCompleted"  >You can train animals in any tank. Only some marine animals can be trained--you can't train a great white shark! Dolphins learn easily, though, and are able to perform all kinds of tricks. Let's teach the dolphin in this tank to do a Jump trick. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectDolphinHeading"  >Select Dolphin</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectDolphin"  >Find Beaky the dolphin in the tank, then click on Beaky to select him.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectDolphinCompleted"  >Good! When you select the dolphin you'll see the animal information panel appear in the lower right corner of the screen. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openTrainingHeading"  >Train Animal</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openTraining"  >You'll notice some new buttons on this panel just for marine animals. Click on the Train Animal button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openTrainingCompleted"  >The Train Animal panel shows you all the tricks the animal can currently learn. The Training Level shows how well the animal knows each trick. Right now Beaky knows a little bit about the Jump in Trick Area trick and nothing about the other tricks. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJumpHeading"  >Jump in Trick Area</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJump"  >Let's teach Beaky a little something! Click on the "Train Animal" for the Jump in Trick Area trick to enter training mode.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJumpCompleted"  >Now we're in close to the action! In training mode you will use the training wand cursor to teach the animal. You do this by tracing a gesture with the training wand cursor. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:gestureIntroHeading"  >Tracing Gestures</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:gestureIntro"  >During training the tracer will move along the gesture line. The gesture line is the large curving yellow line you see in front of you. The tracer is the ring with an arrow attached you see at the left side of the gesture line. Your job is to keep the training wand cursor over the tracer as it moves along the gesture line. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:gestureIntroCompleted"  >Occasionally you'll have to press special buttons while you're tracing the gesture. In this trick, for example, you have to press the left mouse button at the top of the curve. Other tricks require you to press one of the four arrow keys. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureOneHeading"  >Begin Training</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureOne"  >Ready to give it a try? Click on the tracer to begin training.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureOneCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinOneHeading"  >Reward Dolphin</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinOne"  >That's the idea! The trick score tells you how well you did at training the animal. The higher the score, the more the animal learns. After training you reward the animal with a nice tasty fish by pressing the Spacebar.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinOneCompleted"  >The animal learns when you feed him the fish. The animal's training level in that trick increases and the animal will perform that trick better. When an animal has mastered a trick it may unlock new tricks for the animal to learn. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJumpTwoHeading"  >Jump in Trick Area</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJumpTwo"  >Let's try the same trick again so we can learn some advanced techniques. Click on the "Train Animal" for the Jump in Trick Area trick to enter training mode.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectJumpTwoCompleted"  >If you keep a close eye on the tracer as it moves you'll notice it shoots out little sparks. Pay attention to the color of the sparks! Green sparks mean you're right on top of the gesture tracer and doing well. Yellow and orange sparks mean you're falling a little behind. Red sparks mean that you're not earning any points at all because your cursor is too far away from the tracer! Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureTwoHeading"  >Begin Training</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureTwo"  >Ready to try it again? Remember to keep a close eye on the tracer! Click on the tracer to begin training.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:makeGestureTwoCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinTwoHeading"  >Reward Dolphin</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinTwo"  >Good! Now reward Beaky with a fish by pressing the Spacebar.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:rewardDolphinTwoCompleted"  >The more you train an animal in one trick, the better he becomes at it. The better the animal is at a trick, the harder it becomes to train that trick further. Each trick has three levels of difficulty for the gestures you will have to trace. As you move from one difficulty to the next you may find that that the tracer moves faster, there are more special buttons to press, or the shape of the gesture itself changes. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:closePanelHeading"  >Close Train Animal Panel</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:closePanel"  >In addition to training animals yourself you can also hire trainers to train animals for you. Let's learn how to use trainers. First, close the Train Animal panel.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:closePanelCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openStaffPanelHeading"  >Staff</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openStaffPanel"  >The trainer is a new type of staff member, like zookeepers or educators. Click on the Staff button to open the staff panel.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:openStaffPanelCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:placeTrainerHeading"  >Place Trainer</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:placeTrainer"  >Now click on the trainer icon to get a trainer on your cursor. Click again in the game world to place the trainer.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:placeTrainerCompleted"  >Trainers operate very much like zookeepers. A trainer without any special assignments will automatically look for marine animals to train. A marine animal must be happy and must be able to learn tricks before a trainer will train it. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainerHeading"  >Select Trainer</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainer"  >You can also assign a trainer to train a specific animal or animals. To assign a trainer, first click on the trainer to select him or her.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainerCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainingTabHeading"  >Training Assignments Tab</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainingTab"  >Now click on the Training Assignments tab.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:selectTrainingTabCompleted"  >Here you can add specific animals you want this trainer to train. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickAddAssignmentHeading"  >Add New Assignment</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickAddAssignment"  >Click the Add New Assignment button to obtain the training assignment cursor, then click the training assignment on Beaky the dolphin.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:clickAddAssignmentCompleted"  >Good work! Beaky's name now appears on the assignment list and the trainer will now teach Beaky tricks. When you use a trainer you don't choose the tricks yourself. The trainer will go through all the tricks available to the animal starting with the easiest ones. Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingMultipleAnimalsHeading"  >Training Multiple Animals</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingMultipleAnimals"  >You can assign a trainer to train multiple animals in multiple tanks. Of course the more animals you assign to a trainer the less time the trainer will have to spend with each animal. Also, if you assign a trainer to animals in different tanks then it will take some time for the trainer to walk between tanks. Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:trainingMultipleAnimalsComplete"  >Trainers are only able to train animals in tanks that have tank entrances--that is, a ladder and a platform. Click the check</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial3:tutorial_complete"  >
+         Congratulations! You've completed the animal training tutorial. Now you can teach your marine animals all kinds of different tricks.
+         <p/>       
+			To play the next tutorial and learn how to create shows with your marine animals, click the check button. 
+         <p/>  
+      	To return to the Main Menu, click the X button.
+      </LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:welcome"  >Welcome! In this tutorial you'll learn how to create and schedule exciting marine shows for your guests to enjoy. When you're ready to begin, click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:showIntroHeading"  >Show Tanks</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:showIntro"  >To create a marine show the first thing you need is a show tank. A show tank is different from a regular tank in two respects. First, while marine animals can perform inside a show tank, they cannot live inside one. It's hard to eat or rest when there's a show going on inside your house! Second, every show tank needs a show platform. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:showIntroCompleted"  >There are three tanks in this zoo. There's a dolphin in one tank and an orca in another, but the tank in the middle is empty. That means it's perfect for a show tank! We're going to turn the middle tank into a show tank and create shows using the dolphin and the orca. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openConstructionPanelHeading"  >Construction Panel</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openConstructionPanel"  >To create a show tank you need to place a show platform inside it. First, click the Construction button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openConstructionPanelCompleted"  >The show platform can be found on the new Show and Tank Objects panel. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openShowObjectsHeading"  >Show and Tank Objects</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openShowObjects"  >Now click the Show and Tank Objects tab.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openShowObjectsCompleted"  >mull.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeShowPlatformHeading"  >Show Platform</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeShowPlatform"  >Click the show platform to get it on your cursor, then click again inside the tank to place it. Note that you can only place the show platform next to a tank wall.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeShowPlatformCompleted"  >The MC runs shows from the show platform. You also use the show platform to schedule your shows. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeGrandstandHeading"  >Large Grandstand</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeGrandstand"  >Now let's add a grandstands so that guests have somewhere to sit and watch the show. We want to put it in front of the show tank with the seats facing the tank--in between the four flower beds is a nice spot. Click on the large grandstand to get it on your cursor, then click again in the game world to place it.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeGrandstandCompleted"  >Good! Now let's connect the animal tanks to the show tank. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeDolphinPortalHeading"  >Show Portal</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeDolphinPortal"  >Show portals are used to connect tanks with animals in them to show tanks. Animals swim through them to travel to show platforms when it's time to perform. Let's connect the dolphin tank to the show tank using a show portal. Click on the show portal icon to get the show portal on your cursor then click again on the tank wall between the dolphin tank and the show tank.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeDolphinPortalCompleted"  >Now the dolphin will swim into the show platform when he's performing in a show. Note that you can only place show portals on show tank walls. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeOrcaPortalHeading"  >Show Portal</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeOrcaPortal"  >Now let's connect the orca tank to the show tank. Click on the show portal icon to get it on your cursor then click again on the tank wall between the orca tank and the show tank.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:placeOrcaPortalCompleted"  >Animals will only use show portals when they're scheduled to perform in shows, so you don't need to worry about the orca swimming over to the dolphin tank and attacking your dolphin! Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectLandscapingHeading"  >Landscaping</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectLandscaping"  >Right now the show tank contains grasslands water. We need to change the biome of the water inside the tank to something that both of our show animals will like. Click the Landscaping tab.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectLandscapingCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectFilterBiomesHeading"  >Filter Biomes</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectFilterBiomes"  >Now select the Filter Biomes button to display the list of available biomes.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectFilterBiomesCompleted"  >Most of the show animals are comfortable in Coastal water, so we'll use that. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectCoastalHeading"  >Coastal Biome</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectCoastal"  >Scroll through the list of biomes and select the Coastal biome.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectCoastalCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectDeepWaterHeading"  >Deep Water</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectDeepWater"  >Click on the Deep Water button, then click on the water inside the tank.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectDeepWaterCompleted"  >Both the dolphin and the orca will now be comfortable performing in the show tank. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectShowPlatformHeading"  >Select Show Platform</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectShowPlatform"  >Now let's put on a show! To create a show, click on the show platform.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:selectShowPlatformCompleted"  >The show platform information panel allows you to edit, delete, and re-order shows. First, though, you need to create one! Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:createShowHeading"  >Create Show</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:createShow"  >Click the Create Show button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:createShowCompleted"  >You now see the show mixer. The show mixer allows you to have one animal perform multiple tricks during a show or even have multiple animals performing tricks at the same time. We're going to create a simple show using the dolphin and the orca. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalOneHeading"  >Choose Animal</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalOne"  >First add the bottlenose dolphin to the show. Click Choose Animal then select the bottlenose dolphin from the list.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalOneCompleted"  >Note that the list only includes animals in tanks that are connected to the show tank by a show portal. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalTwoHeading"  >Choose Animal</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalTwo"  >Let's have the orca perform in the show too. Click Choose Animal then select the orca from the list.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:chooseAnimalTwoCompleted"  >Now that we have both animals in the show let's assign them to perform tricks. For act one of the show let's have the orca and the dolphin do the Jump trick at the same time. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickOneHeading"  >Add New Trick</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickOne"  >First assign the bottlenose dolphin to do the Jump trick. Click the dolphin's Add New Trick button and then select the Jump trick from the list.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickOneCompleted"  >When you assign a trick to an animal the show automatically creates a trick area--a ring of buoys--where the animal will perform. You can pick up the trick area and move it to exactly where you want it. You can do the same thing with most of the other show props a trick may use. Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalTwoTrickHeading"  >Add New Trick</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalTwoTrick"  >Now that we have the dolphin's first trick scheduled, let's do the same thing for the orca. Click the orca's Add New Trick button and then select the Jump trick from the list.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalTwoTrickCompleted"  >When the show starts the dolphin and the orca will now do the Jump trick at the same time. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickTwoHeading"  >Add New Trick</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickTwo"  >For act two of our show let's have the bottlenose dolphin do the Water Walk trick. Click the dolphin's Add New Trick button and then select "Reuse Prop for Water Walk" from the list.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:assignAnimalOneTrickTwoCompleted"  >Note that you can re-name your show to something like "Dolphin and orca show" if you think "Show 1" is too boring. Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:saveShowHeading"  >Save and Exit</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:saveShow"  >Now click on the check button on the Show Mixer to save the show and exit the Show Mixer.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:saveShowCompleted"  >There are just a couple more things to do and then you can see your show in action! Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:insertBreakHeading"  >Insert Break</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:insertBreak"  >Animals need to take some time off from shows. If an animal spends too much time performing it will become unhappy, and unhappy animals will refuse to perform! To keep the dolphin and the orca happy, insert a break after the show so they can get some rest. Click on the Insert Break button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:insertBreakCompleted"  >Now we're ready to start the show! Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openShowHeading"  >Open Show Platform</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openShow"  >Click the Open Show Platform button to open the show platform and start the show.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:openShowCompleted"  >Now sit back and enjoy the show you made. (If you want to you can even sit in the grandstands while in Zoo Guest Mode!) When the show platform is open all the shows scheduled will run in order--Show 1, then Show 2, and so on. Once all the shows have played, the cycle will begin again with Show 1.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:showOutroHeading"  >Editing Shows</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:showOutro"  >You can use the show platform panel to add additional shows, edit existing shows, delete shows, or re-order shows--but you have to close the show platform first. To change shows, close the platform, make your changes, and then open the show platform again. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:showOutroCompleted"  >Guests rate the shows they've seen on a star system. The more stars the better they like the show. Guests will donate to your zoo if they like your show, so be sure to put a donation box near the show tank. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial4:tutorial_complete"  >
+         Congratulations! You've completed the show tutorial. Now you're ready to create your own amazing marine shows.
+         <p/>
+			To play the next tutorial and learn about the other new features in Zoo Tycoon 2: Marine Mania, click the check button. 
+         <p/>  
+      	To return to the Main Menu, click the X button.
+      </LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:welcome"  >Welcome! In this tutorial you'll learn about some of the new features in Zoo Tycoon 2: Marine Mania such as terrain feature filters, the eyedropper tool, and swimming with dolphins. When you're ready to begin, click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openLandscapingHeading"  >Landscaping</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openLandscaping"  >Zoo Tycoon 2: Marine Mania features several new features as well as some changes to old ones. One thing that's changed is the way you paint landscape features like trees and rocks. To see the new method, click on the Landscaping button.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openLandscapingCompleted"  >Now select the desert biome. Click on the check button to continue once you have selected the desert biome.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeOneHeading"  >Paint Landscape</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeOne"  >The layout of the Landscaping panel has changed. You no longer paint foliage and rocks by selecting biome brushes at the bottom of the panel. Instead you use the new terrain feature filters to toggle trees, plants, and rocks on and off. To see how this works, paint down some desert inside the large field of dirt surrounded by flower beds near the zoo entrance.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeOneCompleted"  >Right now all three terrain feature filters are turned on, so when you paint down landscape you're also painting down rocks, trees, and plants. Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:toggleRocksHeading"  >Rocks Filter</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:toggleRocks"  >You can turn any or all of these filters off. Click on the rocks filter to turn it off.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:toggleRocksCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeTwoHeading"  >Paint Landscape</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeTwo"  >Now paint down some more desert landscape.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:paintLandscapeTwoCompleted"  >Since the rocks filter is off, rocks now no longer appear when you paint landscape. The terrain feature filters give you precise control over what does and doesn't get painted. Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectTreeHeading"  >Select Tree</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectTree"  >Another new feature is the eyedropper tool. The eyedropper tool is a quick and easy way to place another copy of almost any object in the game. Let's try it out on the balsam fir tree over by the hamburger stand. Click on the balsam fir tree to select it.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectTreeCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:copyTreeHeading"  >Eyedropper Tool</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:copyTree"  >Now click on the eydropper tool to get another balsam fir tree on your cursor, then click again to place the red cedar tree.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:copyTreeCompleted"  >The eyedropper may not work on certain objects. For example, in a campaign or scenario game the eyedropper tool won't work if you don't have enough zoo fame for the object, or if the item requires research and you haven't researched it yet. Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectMantaRayHeading"  >Select Manta Ray</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectMantaRay"  >There's also a similar tool which allows you to "clone" animals. Find the manta ray tank and then click on a manta ray to select it.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectMantaRayCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectRecommendationsHeading"  >Zookeeper Recommendations</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectRecommendations"  >Click on the zookeeper recommendations button to bring up the zookeeper recommendations panel.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectRecommendationsCompleted"  >null</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickPictureHeading"  >Clone Animal</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickPicture"  >Click on the picture of the manta ray on the zookeeper recommendations panel to get another manta ray on your cursor, then click again in the manta ray tank to place it.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickPictureCompleted"  >This shortcut will only work if the animal is available on the adoption panel. In a scenario or challenge game you may not be able to "clone" an animal if it's not currently displayed on the adoption panel. Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openQuickStatsHeading"  >Zoo Quick Stats</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openQuickStats"  >Zoo Tycoon 2: Marine Mania also has some new ways to gather information about your zoo. Click on the Zoo Quick Stats button to open the Quick Stats panel.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:openQuickStatsCompleted"  >There are two new tabs on the Quick Stats panel--the Building Information tab and the Donation Box Information tab.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectBuildingTabHeading"  >Building Information</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectBuildingTab"  >The Buildings List gives you easy access to information on all the buildings in your zoo. You can see at a glance how long each building has been open, its total profit to date, and its average profit per month. Click on the Building Information tab to open the Buildings List.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectBuildingTabCompleted"  >Just like the other lists on the Quick Stats panel, clicking on a building's name takes you right to that building. The new Donation Box tab works in a similar way for donation boxes. Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectDolphinHeading"  >Select Dolphin</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectDolphin"  >One fun new feature is being able to swim with dolphins and other marine animals. Find the dolphin tank and click on one of the dolphins to select it.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:selectDolphinCompleted"  >The Swim With Animal feature allows you to enter a dolphin exhibit and swim alongside these magnificent animals. Click the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickSwimButtonHeading"  >Swim With Animal</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickSwimButton"  >Click the Swim With Animal button to siwm with the dolphin.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickSwimButtonCompleted"  >Enjoy riding along with the dolphin! Click the check button when you're ready to continue</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickOverheadViewHeading"  >Swimming in Zoo Guest Mode</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickOverheadView"  >You can swim in tanks and dive underwater in Zoo Guest Mode. Swimming works very much like walking around your zoo in Zoo Guest Mode. (Note that you can use the mouse's scroll wheel to dive or ascend while swimming.) Try swimming in the dolphin tank for a while. Click on the Overhead View button when you're ready to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:clickOverheadViewCompleted"  >You can even take photos while you're swimming underwater! Click on the check button to continue.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:ballPhysicsHeading"  >Improved Ball Physics</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:ballPhysics"  >There's one more fun little feature to see. Find the circular pit surrounded by pursuit balls--it's near the back of the zoo. Click the check button when you have found the pit.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:ballPhysicsCompleted"  >Zoo Tycoon 2: Marine Mania features improved ball physics. What that means is that the balls and animal toys in the game roll better and bounce better than ever before! To try it out, drop some of the balls into the pit and watch how they roll. Click on the check button when you're done playing with the pursuit balls.</LOC_STRING>
+      <LOC_STRING _locID="xp2_tutorial5:tutorial_complete"  >
+         Congratulations! You have completed the tutorials for Zoo Tycoon 2: Marine Mania. Now you're ready to create your own amazing marine zoos. In addition to the new features discussed in the tutorials, there are also 20 new animals, 20 new challenges, 3 new campaigns, and dozens of new objects to enjoy. Good luck! 
+			<p/>
+			If you'd like to learn more about how to play Zoo Tycoon 2, try the other tutorials. Tutorials are marked with the book icon.
+<img src="ui/shared/tutorial_icon.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>			
+         <p/>
+      	Press the X button to return to the Main Menu. 
+      </LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_campaignname"  >Marine Mania Tutorials</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T1"  >Tutorial 1: Tank Construction Basics</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T1short"  >Tank Construction Basics</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T1overviewshort"  >Learn the basics of marine tank building.</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T2"  >Tutorial 2: Advanced Tank Construction</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T2short"  >Advanced Tank Construction</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T2overviewshort"  >Learn how to create hybrid exhibits that combine land and water!</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T3"  >Tutorial 3: Animal Training</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T3short"  >Animal Training</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T3overviewshort"  >Learn how to train show animals to do tricks!</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T4"  >Tutorial 4: Creating Marine Shows</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T4short"  >Creating Marine Shows</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T4overviewshort"  >Learn how to create and schedule exciting marine shows!</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T5"  >Tutorial 5: New Marine Mania Features</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T5short"  >New Marine Mania Features</LOC_STRING>
+      <LOC_STRING _locID="Tutoriallabels:xp2_T5overviewshort"  >Learn about the new and improved game features in Marine Mania!</LOC_STRING>
+</ZT2Strings>

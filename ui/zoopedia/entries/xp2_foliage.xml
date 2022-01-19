@@ -1,0 +1,8 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry entry="zoopedia_foliage">
+         <BFHelpEntry entry="zoopedia_phaeophyta" order="zoopedia_marinephaeophyta"/>
+         <BFHelpEntry entry="zoopedia_tussacgrass" order="zoopedia_planttussacgrass"/>         
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

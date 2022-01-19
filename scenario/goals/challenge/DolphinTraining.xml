@@ -1,0 +1,20 @@
+<BFScenarioGroup name="dolphintrainingrules" state="0" chain="false" allsuccess="false" sticky="true" optional="false">
+   <children>
+      <BFScenarioRule hidden="0" name="TrickOne" state="0" sticky="true" optional="false">
+         <info type="primary">
+            <neutral locid="Challengetext:CHDolphinTrainingTrickTwoShort" overview="Challengetext:CHDolphinTraining"/>
+            <success locid="Challengetext:CHDolphinTrainingSuccessTrickTwoShort" overview="Challengetext:CHDolphinTrainingSuccessTrickTwo"/>
+            <failure locid="Challengetext:CHDolphinTrainingFailureTrickTwoShort" overview="Challengetext:CHDolphinTrainingFailureTrickTwo"/>
+         </info>
+         <evaluate>
+            <BFScenarioScriptAction script="scenario/scripts/challenge/DolphinTraining.lua" entry="evaldolphintraining"/>
+         </evaluate>
+         <success>
+            <BFScenarioScriptAction script="scenario/scripts/challenge/DolphinTraining.lua" entry="completeTrickOne"/>
+         </success>
+         <failure>
+            <BFScenarioScriptAction script="scenario/scripts/challenge/DolphinTraining.lua" entry="failTrickOne"/>
+         </failure>
+      </BFScenarioRule>
+   </children>
+</BFScenarioGroup>

@@ -1,0 +1,26 @@
+<BFTypedBinder binderType="Terrain_Seaweed" abstract="true">
+   <types>
+      <entity>
+         <food>
+            <TerrainFood>
+               <Terrain_Seaweed/>
+            </TerrainFood>
+         </food>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity entityVersion="1"/>
+   </instance>
+   <shared>
+      <ZTDevComponent/>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image=""/>
+         </UIAspect>
+         <UIHelpInfo name="" short="" long="" help="" ids="entityname:Terrain_Seaweed"/>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Terrain_Seaweed"/>
+         </on>
+      </UIToggleButton>
+   </shared>
+</BFTypedBinder>

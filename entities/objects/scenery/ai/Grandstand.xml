@@ -1,0 +1,16 @@
+<BFTypedBinder binderType="Grandstand">
+   <types>
+      <entity>
+         <scenery>
+            <Grandstand/>
+         </scenery>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+  <BFAIEntityDataShared b_Grandstand="true"/>    
+   </shared>
+   <binder/>
+</BFTypedBinder>

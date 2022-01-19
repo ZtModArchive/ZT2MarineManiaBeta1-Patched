@@ -1,0 +1,17 @@
+<BehaviorSets>
+   <!--Splash Fountain Behaviors-->
+   <Squirt>
+      <subjects>
+         <FountainSplash_mm/>
+        </subjects>
+      <behaviors>
+			<BFBehAnimateRandom loopFlag="true">
+				 <randomAnims>
+					 <Idle_Idle weight="50"/>
+					 <Idle_Splash weight="50"/>
+				 </randomAnims>
+			</BFBehAnimateRandom>
+      </behaviors>
+   </Squirt>
+   
+</BehaviorSets>

@@ -1,0 +1,9 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry entry="zoopedia_shows">
+         <BFHelpEntry entry="zoopedia_showplatform"/>
+         <BFHelpEntry entry="zoopedia_showplatform_upgraded" order="zoopedia_upgradedshowplatform"/>
+         <BFHelpEntry entry="zoopedia_bigscreentv"/>         
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

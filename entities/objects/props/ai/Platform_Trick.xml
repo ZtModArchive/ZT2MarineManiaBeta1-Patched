@@ -1,0 +1,50 @@
+<BFTypedBinder binderType="Platform_Trick">
+   <types>
+      <entity>
+         <prop>
+	         <Platform_Trick/>
+         </prop>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity entityVersion="1"/>
+   </instance>
+   <shared>
+   	<ZTDevComponent/>
+      <UIButton name="overviewicon">
+         <UIAspect>
+            <default image="ui/zoomap/icon_staff.dds"/>
+         </UIAspect>
+      </UIButton>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\objects\buildings\Platform_Trick\Platform_Trick_icon.dds"/>
+         </UIAspect>
+         <UIHelpInfo name="" short="" long="" help="" ids="entityname:Platform_Trick"/>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Platform_Trick"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared s_Zoopedia="zoopedia:zoopedia_showplatform:entry" s_Product="Marine"/>
+      <ZTPlacementData minimumDepth="3" icon3Doffset="0 0 0.918257" icon3Dscale="0.11" waterPlacement="false" landPlacement="false" tankPlacement="true" randomRotate="false" gridSnap="true" terrainFlatten="false"/>
+   </shared>
+   <binder>
+      <BFNamedBinder binderName="mainObj">
+         <instance>
+            <BFPhysObj>
+               <BFSimpleLODComponent isBFR="true" modelfile="entities/objects/props/Platform_Trick/Platform_Trick" switch="0 20 40"/>
+               <BFGroundFitComponent heightOffset="0.0" floatOnWater="true" waterOffset="0.0"/>
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+      <BFBinder>
+         <instance>
+            <ZTEconomyComponent cost="400">
+               <ZTTransaction name="build" costType="parent" type="debit" category="construction"/>
+               <ZTTransaction name="destroy" cost="80" costType="%parent" type="credit" category="recycling"/>
+               <ZTTransaction name="upkeep" cost="25" period="monthly" type="debit" category="upkeep"/>
+            </ZTEconomyComponent>
+         </instance>
+      </BFBinder>
+   </binder>
+</BFTypedBinder>

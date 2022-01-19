@@ -1,0 +1,31 @@
+<ZT2Strings>
+   <tricknames>
+      <Add>Add new trick</Add>
+      <Wait>Wait</Wait>
+      <Jump>Jump in %1s</Jump>
+      <StraightUpJump>Jump straight up in %1s</StraightUpJump>
+      <JumpFallSide>Jump and fall to the side in %1s</JumpFallSide>
+      <DiveJump>Dive jump in %1s</DiveJump>
+      <FlipForward>Forward flip in %1s</FlipForward>
+      <FlipBack>Back flip in %1s</FlipBack>
+      <FlipperSplash>Flipper splash in %1s</FlipperSplash>
+      <Spyhop>Spyhop in %1s</Spyhop>
+      <TailSplash>Tail splash in %1s</TailSplash>
+      <CorkscrewTwist>Corkscrew twist in %1s</CorkscrewTwist>
+      <WaterWalk>Water walk in %1s</WaterWalk>
+      <Squirt>Squirt in %1s</Squirt>
+      <JumpThrough>Jump through %1s</JumpThrough>
+      <JumpOver>Jump over %1s</JumpOver>
+      <JumpSwipeAt>Swipe %1s</JumpSwipeAt>
+      <RamAt>Ram %1s</RamAt>
+      <SlideOn>Slide on %1s</SlideOn>
+      <SwingOn>Swing on %1s</SwingOn>
+      <SeatOn>Sitting on %1s</SeatOn>
+      <Playing>Playing %1s</Playing>
+      <BalanceOnNose>Balance %1s on nose</BalanceOnNose>
+   </tricknames>
+   <trickmarkup>
+      <CreateNewProp>Create new prop for %1s</CreateNewProp>
+      <ReuseProp>Reuse prop for %1s</ReuseProp>
+   </trickmarkup>
+</ZT2Strings>

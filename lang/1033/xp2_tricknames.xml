@@ -1,0 +1,27 @@
+<ZT2Strings>
+      <LOC_STRING _locID="tricknames:Add"  >Add new trick</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Wait"  >Wait</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Jump"  >Jump in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:StraightUpJump"  >Jump straight up in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpFallSide"  >Jump and fall to the side in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:DiveJump"  >Dive jump in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipForward"  >Forward flip in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipBack"  >Back flip in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipperSplash"  >Flipper splash in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Spyhop"  >Spyhop in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:TailSplash"  >Tail splash in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:CorkscrewTwist"  >Corkscrew twist in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:WaterWalk"  >Water walk in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Squirt"  >Squirt in %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpThrough"  >Jump through %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpOver"  >Jump over %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpSwipeAt"  >Swipe %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:RamAt"  >Ram %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SlideOn"  >Slide on %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SwingOn"  >Swing on %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SeatOn"  >Sitting on %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Playing"  >Playing %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:BalanceOnNose"  >Balance %1s on nose</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:CreateNewProp"  >Create new prop for %1s</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:ReuseProp"  >Reuse prop for %1s</LOC_STRING>
+</ZT2Strings>

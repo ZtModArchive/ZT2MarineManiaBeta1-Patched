@@ -1,0 +1,30 @@
+<BFTypedBinder binderType="FountainSplash_collision_proxy">
+	<types>
+		<entity>
+			<collision_proxy>
+				<FountainSplash_collision_proxy />
+			</collision_proxy>
+		</entity>
+	</types>
+	<instance>
+		<BFGEntity />
+	</instance>
+	<shared>
+		<ZTPlacementData autoFootprint="true" gridSnap="false" terrainFlatten="true">
+			<stompData>
+				<allow>
+					<FountainSplash_mm />
+				</allow>
+			</stompData>
+		</ZTPlacementData>
+	</shared>
+	<binder>
+		<BFNamedBinder binderName="mainObj">
+			<instance>
+				<BFPhysObj>
+					<BFSceneGraphComponent isBFR="true" modelfile="entities\objects\misc\FountainSplash_ABV_mm" />
+				</BFPhysObj>
+			</instance>
+		</BFNamedBinder>
+	</binder>
+</BFTypedBinder>

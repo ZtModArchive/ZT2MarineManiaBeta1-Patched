@@ -1,0 +1,5 @@
+<TEXTKEY>
+   <key time="0" text="{Bip01 Head} snd 'BiteA'"/>
+   <key time="0" text="{Bip01 Head} snd 'BiteA_uw'"/>   
+   <key percent="0" text="{Node_Eat} attach object"/>
+</TEXTKEY>

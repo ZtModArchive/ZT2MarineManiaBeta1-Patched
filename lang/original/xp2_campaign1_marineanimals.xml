@@ -1,0 +1,345 @@
+		 <ZT2Strings>
+   <MarineAnimals>
+<!--Draft. All specific values for cash awards, etc. are highly speculative, tentative, and subject to change!-->   
+
+      <TakeThePlungeIntro>Take the Plunge</TakeThePlungeIntro>
+      
+      <TakeThePlungeOverviewShort>
+Get your feet wet by obtaining ten different marine species in order to transform a small zoo into a bustling marine park. Complete all the scenarios in this campaign to unlock the ???REWARDOBJECT.
+      </TakeThePlungeOverviewShort>
+      
+      <TakeThePlungeOverview>
+      The owners of a small local zoo have ambitious plans to expand their zoo by focusing on aquatic exhibits. They've hired you to help them take the plunge into the exciting world of marine animals.
+         <p/>
+         The owners' long-term goal is to acquire ten different species of marine animal for their zoo. As a start, though, they'd like you to begin by acquiring three different species of marine animal.
+        <p/>
+        (Tip: All the new Marine Mania (???PRODUCTNAME?) animals count as marine animals, but so do some other animals such as polar bears and penguins. If an animal species has tank walls listed in its Zookeeper recommendations, it qualifies as a marine animal for this scenario.)      
+      </TakeThePlungeOverview>
+            
+      <TakeThePlungeSix>
+      The owners are quite pleased that you've obtained your first three marine species for the zoo! They've given you a free seahorse bouncy ride to help emphasize your zoo's marine theme. You'll find the bouncy ride crated near the entrance to your zoo.
+      <p/>
+      The owners have set a new goal for you: display six or more marine species in your zoo!
+      </TakeThePlungeSix>
+      <TakeThePlungeTen>
+      Your zoo now features six different species of marine animals. The owners are so happy with the zoo's new direction that they've given you a free marine gift cart to place in your zoo. You'll find the gift cart crated near the entrance to your zoo.
+      <p/>
+      To really establish the zoo's reputation as a marine attraction the owners would like you to obtain four more species of marine animal. Display a total of ten different marine species to win the scenario!
+      </TakeThePlungeTen>      
+      <TakeThePlungeSuccessOverview>
+      The owners are ecstatic about the success of their marine animal zoo, and you've proven that you know how to care for several different marine species. Congratulations!
+      </TakeThePlungeSuccessOverview>
+
+      
+      <TakeThePlungeGuest1Overview>The owners are also eager for you to attract more guests to the zoo. To help you along they have promised to give you $10,000 once a total of 50 guests have visited your zoo.     
+		</TakeThePlungeGuest1Overview>
+     
+      <TakeThePlungeGuest1Success>Over 50 guests have visited your zoo! The zoo owners have given you $10,000 as promised. Furthermore, they promise to give you $20,000 more if you can attract a grand total of 100 guests to the zoo.
+      </TakeThePlungeGuest1Success>
+      
+      <TakeThePlungeGuest2Success>Your zoo has attracted a total of more than 100 guests. The zoo owners have rewarded you with a $20,000 cash grant. To sweeten the deal the owners promise to pay you $30,000 if you can attract a grand total of 150 guests to the zoo.
+      </TakeThePlungeGuest2Success>
+      
+      <TakeThePlungeGuest3Success>Over the months more than 150 guests have come to admire your zoo! The zoo owners have given you a $30,000 cash grant as a reward.
+      </TakeThePlungeGuest3Success>      
+      
+      <TakeThePlungeOverallGoal>Obtain ten different species of marine animal for your zoo.
+      </TakeThePlungeOverallGoal>
+      <TakeThePlungeThreeGoal>Display three or more different species of marine animal in the zoo.
+      </TakeThePlungeThreeGoal>
+      <TakeThePlungeThreeGoalDone>You have three or more marine species on display!
+      </TakeThePlungeThreeGoalDone>
+      <TakeThePlungeSixGoal>Display six or more different species in the zoo.
+      </TakeThePlungeSixGoal>
+      <TakeThePlungeSixGoalDone>You have six or more different species on display!
+      </TakeThePlungeSixGoalDone>      
+      <TakeThePlungeTenGoal>Display ten or more different species in the zoo.
+      </TakeThePlungeTenGoal>
+      <TakeThePlungeTenGoalDone>You have ten or more different species on display!</TakeThePlungeTenGoalDone>
+        
+		<TakeThePlungeGuestGoal1>Attract a grand total of 50 guests to your zoo to receive a cash grant.</TakeThePlungeGuestGoal1>
+		<TakeThePlungeGuestGoal1Done>You received a cash grant after 50 guests visited your zoo.</TakeThePlungeGuestGoal1Done>
+		
+		<TakeThePlungeGuestGoal2>Attract a grand total of 100 guests to your zoo to receive a cash grant.</TakeThePlungeGuestGoal2>
+		<TakeThePlungeGuestGoal2Done>You received a cash grant after 100 guests visited your zoo.</TakeThePlungeGuestGoal2Done>
+		
+		<TakeThePlungeGuestGoal3>Attract a grand total of 150 guests to your zoo to receive a cash grant.</TakeThePlungeGuestGoal3>
+		<TakeThePlungeGuestGoal3Done>You received a cash grant after 150 guests visited your zoo.</TakeThePlungeGuestGoal3Done>		
+
+
+
+
+      <OceansBiomesIntro>The Oceans' Biomes</OceansBiomesIntro>
+      
+      <OceansBiomesOverviewshort>A billionaire has hired you to create a zoo that represents each of the major marine biomes. Complete all scenarios in this campaign to unlock the ???REWARDOBJECT</OceansBiomesOverviewshort>
+
+      <OceansBiomesOverview>
+         Hendrick "Pirate" Parker has bought a zoo and wants you to run it! Pirate Parker is the rich and eccentric founder of the world-famous chain of Pirate Parker's Seafood Palace restaurants. Not only does he run the company, he also acts as its flamboyantly-dressed mascot. 
+         <p/>
+         Pirate Parker wants you to create a zoo that will teach the public about the animal wonders found in the world's oceans. To achieve that goal he wants your zoo to display at least one marine species from each of the five major marine biomes: Coastal, Reef, Pelagic, Benthic, and Tundra. For each biome that you represent in your zoo Pirate Parker will pay you a $10,000 bonus.
+         <p/>
+         Stay on your toes. Pirate Parker is famous for inspecting his holdings in person. You never know when he may appear to check out your zoo!
+      </OceansBiomesOverview>
+
+      <OceansBiomesSuccess>Well done! Your zoo now contains at least one species from each of the major marine biomes. Pirate Parker is so pleased with your work that he's given you a very special reward--a lifetime supply of Pirate Parker's fishsticks!
+      </OceansBiomesSuccess>
+      
+      <OceansBiomesOverallGoal>Create a zoo containing at least one species from each of the major marine biomes.
+      </OceansBiomesOverallGoal>
+      
+      <OceansBiomesOverallGoalDone>You have created a zoo containing species from each of the major marine biomes!
+      </OceansBiomesOverallGoalDone>
+      
+      <OceansBiomesCoastal>Obtain at least one species from the Coastal biome and meet its basic needs to obtain a $10,000 cash grant.</OceansBiomesCoastal>
+      <OceansBiomesCoastalDone>Great! You have at least one species from the Coastal biome on display.</OceansBiomesCoastalDone>
+      
+      <OceansBiomesReef>Obtain at least one species from the Reef biome and meet its basic needs to obtain a $10,000 cash grant.</OceansBiomesReef>
+      <OceansBiomesReefDone>Great! You have at least one species from the Reef biome on display.</OceansBiomesReefDone>
+      
+      <OceansBiomesPelagic>Obtain at least one species from the Pelagic biome and meet its basic needs to obtain a $10,000 cash grant.</OceansBiomesPelagic>
+      <OceansBiomesPelagicDone>Great! You have at least one species from the Pelagic biome on display.</OceansBiomesPelagicDone>
+      
+      <OceansBiomesBenthic>Obtain at least one species from the Benthic biome and meet its basic needs to obtain a $10,000 cash grant.</OceansBiomesBenthic>
+      <OceansBiomesBenthicDone>Great! You have at least one species from the Benthic biome on display.</OceansBiomesBenthicDone>
+
+      <!-- Note that, say, a musk ox doesn't count-->
+      <OceansBiomesTundra>Obtain at least one marine species from the tundra biome and meet its basic needs to obtain a $10,000 cash grant.</OceansBiomesTundra>
+      <OceansBiomesTundraDone>Great! You have at least one marine species from the tundra biome on display.</OceansBiomesTundraDone>
+      
+      <!--Optional goal 1-->
+      <OceansBiomesPirateView>Pirate Parker, the owner of the zoo, has just arrived! He says he's checking up how you're doing. He's deeply interested in seeing all the marine animals you've acquired for the zoo. In fact, Pirate Parker says that if he sees three different marine species during his visit he'll reward you with some "fine booty," as he puts it.
+      </OceansBiomesPirateView>
+      
+      <OceansBiomesPirateViewSuccess>Pirate Parker is pleased with your progress! Since he saw three different marine species during his visit, he's decided to reward you with a free animal. You'll find the animal crated near the entrance to your zoo.</OceansBiomesPirateViewSuccess>
+      
+      <OceansBiomesPirateViewGoal>If Pirate Parker sees three different marine species in your zoo, he'll give you a reward.
+      </OceansBiomesPirateViewGoal>
+      
+      <OceansBiomesPirateViewGoalDone>Pirate Parker saw three different marine species in your zoo and gave you a reward!
+      </OceansBiomesPirateViewGoalDone>      
+
+      <OceansBiomesPirateViewEntered>
+Pirate Parker has entered your zoo!
+      </OceansBiomesPirateViewEntered>      
+      <OceansBiomesPirateViewFailure>
+Pirate Parker left the zoo before he saw three marine species, so you've missed your chance for a reward.
+      </OceansBiomesPirateViewFailure>
+      
+      <OceansBiomesPirateName>Pirate Parker</OceansBiomesPirateName>
+      
+      <OceansBiomesPirateViewOneSeen>So far Pirate Parker has seen one marine species.</OceansBiomesPirateViewOneSeen>
+      <OceansBiomesPirateViewTwoSeen>So far Pirate Parker has seen two marine species. If he sees one more marine species, you will receive a reward!</OceansBiomesPirateViewTwoSeen>     
+      
+      <!--Optional goal 2-->
+      <OceansBiomesPirateShow>Pirate Parker, the owner of the zoo, has returned to your zoo! This time he's looking for some entertainment. If Pirate Parker sees a marine show with a two-star rating or better during his visit, he says he'll "shower ye with doubloons and pieces of eight!"
+      </OceansBiomesPirateShow>
+      
+      <OceansBiomesPirateShowSuccess>Pirate Parker liked your show! In fact he loved it so much that he's decided to reward you with a cash grant.</OceansBiomesPirateShowSuccess>
+      
+      <OceansBiomesPirateShowGoal>If Pirate Parker sees a marine show with a two-star rating or better, he'll reward you with a cash grant.</OceansBiomesPirateShowGoal>
+      <OceansBiomesPirateShowGoalDone>Pirate Parker saw a marine show with a two-star rating or better and gave you a cash grant!</OceansBiomesPirateShowGoalDone>      
+
+      <OceansBiomesPirateShowEntered>
+Pirate Parker has entered your zoo!
+      </OceansBiomesPirateShowEntered>      
+      <OceansBiomesPirateShowFailure>
+Pirate Parker left the zoo without seeing a two-star marine show, so you've missed your chance for a reward.
+      </OceansBiomesPirateShowFailure>
+
+            
+      <MarineDiversityIntro>The Marine Diversity Zoo</MarineDiversityIntro>
+      
+      <MarineDiversityOverviewshort>Create a zoo that contains species from five major classes and orders of large marine animal. Complete all scenarios in this campaign to unlock the ???REWARDOBJECT</MarineDiversityOverviewshort>
+
+      <MarineDiversityOverview>
+         The world's oceans contain an amazing variety of animal life, ranging from microscopic zooplankton to the huge majestic whales that feed on them. Your zoo's board of directors wants to create a series of new exhibits that illustrate this vast diversity. Your job will be to build exhibits that include representatives from several different orders and classes of large marine animal.
+         <p/>
+         In particular, you must obtain one marine species from each of the following orders and classes:
+      	<br/>
+			*  A marine species from the order Carnivora (which includes seals, otters, the walrus and the polar bear)
+			<br/>
+			*  A species from the order Cetacea (whales and dolphins)
+         <br/>
+         *  A species from the class Chondrichthyes (sharks and rays)
+         <br/>
+         *  A species from the order Perciformes (perch-like fish)
+         <br/>
+         *  A marine species from the order Testudines (which includes sea turtles.)
+         <p/>
+         The board of directors will reward you with a cash grant of $10,000 whenever you achieve one of these goals.  
+      </MarineDiversityOverview>
+
+      <MarineDiversitySuccess>You've done it! Your marine zoo contains species from a wide variety of orders and classes. The zoo's board of directors is extremely pleased with your work.
+      </MarineDiversitySuccess>
+      
+      <MarineDiversityOverallGoal>Create a zoo containing at least one marine species from each of the following orders and classes.
+      </MarineDiversityOverallGoal>
+      
+      <MarineDiversityOverallGoalDone>You have created a zoo containing marine species from a variety of orders and classes!
+      </MarineDiversityOverallGoalDone>
+
+      <!-- Note that, say, a tiger doesn't count-->      
+      <MarineDiversityCarnivora>Obtain at least one marine species from the order Carnivora (which includes seals, otters, the walrus and the polar bear) and meet its basic needs to obtain a $10,000 cash grant.</MarineDiversityCarnivora>
+      <MarineDiversityCarnivoraDone>You have at least one marine species from the order Carnivora on display!</MarineDiversityCarnivoraDone>
+      
+      <MarineDiversityCetacea>Obtain at least one species from the order Cetacea (whales and dolphins) and meet its basic needs to obtain a $10,000 cash grant.</MarineDiversityCetacea>
+      <MarineDiversityCetaceaDone>You have at least one species from the order Cetacea on display!</MarineDiversityCetaceaDone>
+      
+      <MarineDiversityChondrichthyes>Obtain at least one species from the class Chondrichthyes (sharks and rays) and meet its basic needs to obtain a $10,000 cash grant.</MarineDiversityChondrichthyes>
+      <MarineDiversityChondrichthyesDone>You have at least one species from the class Chondrichthyes on display!</MarineDiversityChondrichthyesDone>
+      
+      <MarineDiversityPerciformes>Obtain at least one species from the order Perciformes (perch-like fish) and meet its basic needs to obtain a $10,000 cash grant.</MarineDiversityPerciformes>
+      <MarineDiversityPerciformesDone>You have at least one species from the order Perciformes on display!</MarineDiversityPerciformesDone>
+
+      <!-- Note that, say, an African spurred tortoise doesn't count-->
+      <MarineDiversityTestudines>Obtain at least one marine species from the order Testudines (which includes sea turtles) and meet its basic needs to obtain a $10,000 cash grant.</MarineDiversityTestudines>
+      <MarineDiversityTestudinesDone>Great! You have at least one marine species from the order Testudines on display.</MarineDiversityTestudinesDone>
+      
+      <!--Optional goal 1-->
+      <MarineDiversityDonations>To help you create an even more diverse zoo the board of directors has made the following offer. If you can earn more than $7500 in donations to marine animals, the board will provide you with a pair of free emperor penguins.
+      </MarineDiversityDonations>
+      
+      <MarineDiversityDonationsSuccess>As a reward for earning more than $7500 in donations to marine animals the zoo's board of directors has given you a pair of emperor penguins. You'll find the penguins crated near the entrance to your zoo.</MarineDiversityDonationsSuccess>
+      
+      <MarineDiversityDonationsGoal>Earn more than $7500 in donations to marine animals to receive a free pair of penguins.
+      </MarineDiversityDonationsGoal>
+      
+      <MarineDiversityDonationsGoalDone>You've earned more than $7500 in donations to marine animals and received a free pair of penguins as a reward.
+      </MarineDiversityDonationsGoalDone>      
+      
+      <!--Optional goal 2-->
+      <MarineDiversityAquariums>To encourage you to showcase some smaller marine animals, the board of directors has made you the following offer--place three different types of aquariums and they will give you a hammerhead shark at no cost to you.
+      </MarineDiversityAquariums>
+      
+      <MarineDiversityAquariumsSuccess>As a reward for placing three different types of aquariums, the board of directors has given you a hammerhead shark! You'll find the shark crated near the entrance to your zoo.</MarineDiversityAquariumsSuccess>
+      
+      <MarineDiversityAquariumsOverallGoal>Place three different types of aquariums in your zoo to receive a free hammerhead shark.</MarineDiversityAquariumsOverallGoal>
+      <MarineDiversityAquariumsOverallGoalDone>You placed three different types of aquariums in your zoo and received a free hammerhead shark as a reward!</MarineDiversityAquariumsOverallGoalDone>
+      
+      <MarineDiversityAquariumsOctopusGoal>Place an aquarium containing an octopus.</MarineDiversityAquariumsOctopusGoal>
+      <MarineDiversityAquariumsOctopusGoalDone>You placed an aquarium containing an octopus!</MarineDiversityAquariumsOctopusGoalDone>
+      
+      <MarineDiversityAquariumsSeahorseGoal>Place an aquarium containing seahorses.</MarineDiversityAquariumsSeahorseGoal>
+      <MarineDiversityAquariumsSeahorseGoalDone>You placed an aquarium containing seahorses!</MarineDiversityAquariumsSeahorseGoalDone>      
+
+      <MarineDiversityAquariumsTropicalGoal>Place an aquarium containing tropical fish.</MarineDiversityAquariumsTropicalGoal>
+      <MarineDiversityAquariumsTropicalGoalDone>You placed an aquarium containing tropical fish!</MarineDiversityAquariumsTropicalGoalDone>      
+
+           
+      
+<!--Arluq is an Inuit word meaning Orca-->        
+      <OrcaIntro>Arluq the Orca</OrcaIntro>
+      
+      <OrcaOverviewShort>Raise an orphaned young orca from childhood to maturity. Complete all the scenarios in this campaign to unlock the ??REWARDITEM.
+      </OrcaOverviewShort>
+      <OrcaOverview>Individual orcas sometimes strand themselves on shore while hunting prey. Much more rare are mass strandings, where entire pods of orcas strand themselves on the beach. Scientists do not know exactly why these mass strandings occur. 
+      <p/>
+      Arluq, a young female, is the sole survivor rescued from a mass stranding in the arctic. Currently Arluq is being kept in a temporary facility. Officials of the Orca Rescue and Care Association are looking for a permanent home for her. The association wants to place her in a well-established zoo with adequate financial resources.
+      <p/>
+      If you can earn $10,000 in donations the association will donate Arluq to your zoo!
+      </OrcaOverview>
+      
+      <OrcaBasicNeeds>You've done an excellent job in raising donations, and so the Orca Rescue and Care Association has donated Arluq the orca to your zoo! You'll find Arluq the orca crated near the entrance to your zoo.
+      <p/>
+      Now its up to you to take care of this magnificent animal. Build an exhibit for her and take care of all her basic needs.
+      </OrcaBasicNeeds>
+      
+      <OrcaEnrichment>Arluq seems to be adjusting well to her new exhibit. As a reward for your quick action, your zoo's board of directors has awarded you a $10,000 bonus.
+      <p/>
+      Now you need to make sure that Arluq doesn't get bored! Orcas are intelligent, active predators that require constant stimulation. Your next goal is to obtain three different enrichment items--a bubble emitter, a large ball, and a seal prey dummy--and meet Arluq's stimulation needs.
+      </OrcaEnrichment>
+      
+      <OrcaCare>
+      You've done a fine job with Arluq so far! The Orca Rescue and Care Association wants you to continue taking care of her for the next three months. After three months one of their inspectors will assess Arluq's situation and make a recommendation for her future.
+      </OrcaCare>
+      
+      <OrcaReleaseDonations>
+      Three months have gone by and an inspector from the Orca Rescue and Care Association has assessed Artluq's current living situation. He's concerned that Arluq's social needs are not being met. Orcas are very social animals, and they dislike isolation. The inspector's recommendation is that you release Arluq to the wild, where she can interact with other orcas. He's confident that this is the best decision for Arluq's future happiness.
+      <p/>
+      However, transporting and safely releasing a large marine animal like an orca is expensive! Before you can release Arluq to the wild you'll need to raise $25,000 in donation to the orca.
+      </OrcaReleaseDonations>
+      
+      <OrcaReleaseToWild>
+      You've raised over $25,000 for Arluq! Now it's time for her to return home. Release Arluq to the wild to complete the scenario.
+      </OrcaReleaseToWild>
+      
+      <OrcaReleaseToWildSuccess>
+      You've sent Arluq back to her home waters, far north in the arctic. Using Arluq's vocal patterns scientists managed to locate a pod of related orcas, and Arluq was released back into the wild near her relatives. From Arluq's excited vocalizations and belly-flops you could tell she was pleased to see others of her kind! Arluq joined the pod and is now living happily with them as they patrol the vast ocean.
+      </OrcaReleaseToWildSuccess> 
+      
+      <OrcaBreed>
+      Three months have gone by and an inspector from the Orca Rescue and Care Association has assessed Artluq's current living situation. He says that you've done an excellent job raising Arluq in a zoo environment and that it's time to take the next step. He says that you should introduce male orcas and breed Arluq. Once Arluq has a baby you will complete the scenario!     
+      </OrcaBreed>
+      
+      <OrcaBreedSuccess>
+      You have a new little arrival at the zoo. Arluq is now a mother! You've started a whole new orca community in your zoo.
+      </OrcaBreedSuccess>
+           
+      <OrcaSuccessOverview>
+      You've done an excellent job raising a young orca and taking care of her. Arluq is doing great, and it's all thanks to you!
+      </OrcaSuccessOverview>
+      
+      <OrcaDeathFailure>
+      Arluq was able to survive a mass stranding but sadly she was not able to survive in your zoo! You have failed the scenario!
+      </OrcaDeathFailure>
+      
+      <OrcaOverallGoal>Take care of Arluq, a young orca rescued after a mass stranding.
+      </OrcaOverallGoal>
+      <OrcaOverallGoalDone>You did a great job taking care of Arluq!</OrcaOverallGoalDone>
+      
+      <OrcaDonationsGoal>Earn $10,000 in donations to marine animals to show your zoo is capable of hosting Arluq.
+      </OrcaDonationsGoal>
+      <OrcaDonationsGoalDone>You have earned more than $10,000 in donations to marine animals!
+      </OrcaDonationsGoalDone>
+      
+      <OrcaBasicNeedsGoal>Meet Arluq's basic needs.</OrcaBasicNeedsGoal>
+      <OrcaBasicNeedsGoalDone>You have met Arluq's basic needs!
+      </OrcaBasicNeedsGoalDone> 
+      
+      <OrcaEnrichmentGoal>Buy enrichment items for Arluq and make sure her stimulation need is met.</OrcaEnrichmentGoal>
+      <OrcaEnrichmentGoalDone>You have obtained enrichment items and met Arluq's stimulation need!
+      </OrcaEnrichmentGoalDone>
+      
+      <OrcaEnrichmentBubbleGoal>Obtain a bubble emitter enrichment item.
+      </OrcaEnrichmentBubbleGoal>
+      <OrcaEnrichmentBubbleGoalDone>You have obtained a bubble emitter enrichment item!
+      </OrcaEnrichmentBubbleGoalDone>
+      
+      <OrcaEnrichmentDummyGoal>Obtain a seal prey dummy enrichment item.</OrcaEnrichmentDummyGoal>
+      <OrcaEnrichmentDummyGoalDone>You have obtained a seal prey dummy!
+      </OrcaEnrichmentDummyGoalDone>
+      
+      <OrcaEnrichmentBallGoal>Obtain a large ball show item.</OrcaEnrichmentBallGoal>
+      <OrcaEnrichmentBallGoalDone>You have obtained a large ball!</OrcaEnrichmentBallGoalDone>
+      
+      <OrcaEnrichmentStimulationGoal>Meet Arluq's stimulation need.</OrcaEnrichmentStimulationGoal>
+      <OrcaEnrichmentStimulationGoalDone>You have met Arluq's stimulation need!</OrcaEnrichmentStimulationGoalDone>      
+      
+      <OrcaReleaseDonationsGoal>Earn at grant total of $25,000 in donations to the orca so you can release Arluq to the wild.</OrcaReleaseDonationsGoal>
+      <OrcaReleaseDonationsGoalDone>You have earned over $25,000 in donations to the orca!</OrcaReleaseDonationsGoalDone>           
+      
+      <OrcaReleaseToWildGoal>Release Arluq to the wild.
+      </OrcaReleaseToWildGoal>
+      <OrcaReleaseToWildGoalDone>You have released Arluq to the wild!
+      </OrcaReleaseToWildGoalDone>
+     
+      <OrcaBreedGoal>Breed Arluq to another orca.
+      </OrcaBreedGoal>
+      <OrcaBreedGoalDone>Arluq has had a child!
+      </OrcaBreedGoalDone>
+             
+   </MarineAnimals>
+   
+   <MarineAnimalsLabels>
+      <MarineAnimalsCampaignshort>Marine Animals</MarineAnimalsCampaignshort>
+      <MarineAnimalsCampaignS1>Take the Plunge</MarineAnimalsCampaignS1>
+      <MarineAnimalsCampaignS1short>Take the Plunge</MarineAnimalsCampaignS1short>
+      <MarineAnimalsCampaignS2>The Oceans' Biomes</MarineAnimalsCampaignS2>
+      <MarineAnimalsCampaignS2short>Oceans' Biomes</MarineAnimalsCampaignS2short>
+      <MarineAnimalsCampaignS3>The Marine Diversity Zoo</MarineAnimalsCampaignS3>
+      <MarineAnimalsCampaignS3short>Marine Diversity Zoo</MarineAnimalsCampaignS3short>
+      <MarineAnimalsCampaignS4>Arluq the Orca</MarineAnimalsCampaignS4>
+      <MarineAnimalsCampaignS4short>Arluq the Orca</MarineAnimalsCampaignS4short>
+   </MarineAnimalsLabels>
+   
+</ZT2Strings>

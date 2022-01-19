@@ -1,0 +1,5 @@
+<TEXTKEY>
+   <key time="0" text="{Bip01} snd 'TreadWater_Attacked'"/>
+   <key time="0" text="{Bip01} snd 'TreadWater_Attacked_uw'"/>   
+	<key time=".6" text="{Bip01 Head} runspl"/>   
+</TEXTKEY>

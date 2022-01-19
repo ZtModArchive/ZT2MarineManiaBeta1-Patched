@@ -1,0 +1,87 @@
+<material fx="BaseDark" name="Screen_mm">
+	<param name="AddressU0" type="dword">1</param>
+	<param name="AddressU1" type="dword">1</param>
+	<param name="AddressV0" type="dword">1</param>
+	<param name="AddressV1" type="dword">1</param>
+	<param name="AlphaApplyMode" type="dword">4</param>
+	<param name="AlphaBlendEnable" type="bool">false</param>
+	<param name="AlphaFunc" type="dword">5</param>
+	<param name="AlphaRef" type="dword">200</param>
+	<param name="AlphaTestEnable" type="bool">true</param>
+	<param name="AmbientMaterialSource" type="dword">1</param>
+	<param name="ColorApplyMode" type="dword">4</param>
+	<param name="CullMode" type="dword">2</param>
+	<param name="DiffuseMaterialSource" type="dword">1</param>
+	<param name="EmissiveMaterialSource" type="dword">0</param>
+	<param name="MaterialAmbient" type="vector4">0.992157, 0.992157, 0.992157, 1.000000</param>
+	<param name="MaterialDiffuse" type="vector4">0.952941, 0.952941, 0.952941, 1.000000</param>
+	<param name="MaterialEmissive" type="vector4">1.000000, 1.000000, 1.000000, 1.000000</param>
+	<param name="MaterialPower" type="float">10.000000</param>
+	<param name="ShadeMode" type="dword">2</param>
+	<param name="SpecularEnable" type="bool">false</param>
+	<param name="TexCoordIndex0" type="dword">0</param>
+	<param name="TexCoordIndex1" type="dword">1</param>
+	<param name="Texture0" type="texture">Screen_Used_mm</param>
+	<param name="Texture1" type="texture">ScanLine</param>
+	<param name="TextureTransformFlags0" type="dword">2</param>
+	<animate name="TextureTransform0" type="UVTransform" loop="wrap" length="26.666668">
+		<offsetu>
+			<key time="0.000000" value="0.000000" />
+			<key time="0.033333" value="0.000000" />
+			<key time="3.133333" value="0.000000" />
+			<key time="3.166667" value="-0.330000" />
+			<key time="3.833333" value="-0.330000" />
+			<key time="5.933333" value="-0.660000" />
+			<key time="6.666667" value="-0.660000" />
+			<key time="6.700000" value="0.000000" />
+			<key time="10.166667" value="0.000000" />
+			<key time="10.200000" value="-0.330000" />
+			<key time="13.766667" value="-0.330000" />
+			<key time="13.800000" value="-0.660000" />
+			<key time="18.566668" value="-0.660000" />
+			<key time="18.600000" value="-0.660000" />
+			<key time="18.666668" value="-0.660000" />
+			<key time="21.466667" value="-0.360000" />
+			<key time="23.566668" value="-0.360000" />
+			<key time="26.666668" value="-0.000000" />
+		</offsetu>
+		<offsetv>
+			<key time="0.000000" value="0.000000" />
+			<key time="0.033333" value="-0.000057" />
+			<key time="3.133333" value="0.000000" />
+			<key time="5.933333" value="0.000000" />
+			<key time="6.666667" value="0.000000" />
+			<key time="6.700000" value="0.330000" />
+			<key time="10.166667" value="0.330000" />
+			<key time="10.200000" value="0.330000" />
+			<key time="13.766667" value="0.330000" />
+			<key time="13.800000" value="0.330000" />
+			<key time="18.566668" value="0.330000" />
+			<key time="18.600000" value="0.660000" />
+			<key time="18.666668" value="0.660000" />
+			<key time="21.466667" value="0.660000" />
+			<key time="23.566668" value="0.660000" />
+			<key time="26.666668" value="0.660000" />
+		</offsetv>
+		<tileu>
+			<key time="0.000000" value="1.000000" />
+			<key time="3.133333" value="1.000000" />
+			<key time="3.833333" value="1.000000" />
+			<key time="5.933333" value="1.000000" />
+			<key time="6.666667" value="1.000000" />
+			<key time="10.166667" value="1.000000" />
+			<key time="13.766667" value="1.000000" />
+			<key time="13.800000" value="1.000000" />
+			<key time="18.566668" value="0.999986" />
+			<key time="18.600000" value="1.000000" />
+			<key time="18.666668" value="1.000000" />
+			<key time="26.666668" value="1.000000" />
+		</tileu>
+		<tilev>
+			<key time="0.000000" value="1.000000" />
+		</tilev>
+		<rotw>
+			<key time="0.000000" value="0.000000" />
+		</rotw>
+	</animate>
+</material>

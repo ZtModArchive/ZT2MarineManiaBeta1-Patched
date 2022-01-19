@@ -1,0 +1,16 @@
+<BFTypedBinder binderType="Aquarium" abstract="true">
+   <types>
+      <entity>
+         <scenery>
+            <Aquarium/>
+         </scenery>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+  <BFAIEntityDataShared />    
+   </shared>
+   <binder/>
+</BFTypedBinder>

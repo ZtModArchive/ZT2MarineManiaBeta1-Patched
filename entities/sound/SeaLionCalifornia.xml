@@ -1,0 +1,33 @@
+<soundtags> 
+   <!--Horn Prop-->
+   <BFSoundtag>
+         <BF3DSndFactory name="Horns_mm_1">
+            <snd name="entities/units/animals/SeaLionCalifornia/sound/HornSeal_1.wav" volume="1" mindist="6" maxdist="30"/>
+         </BF3DSndFactory>    
+   </BFSoundtag>          
+   <BFSoundtag>
+         <BF3DSndFactory name="Horns_mm_2">
+            <snd name="entities/units/animals/SeaLionCalifornia/sound/HornSeal_2.wav" volume="1" mindist="6" maxdist="30"/>
+         </BF3DSndFactory>    
+   </BFSoundtag>    
+   <BFSoundtag>
+         <BF3DSndFactory name="Horns_mm_3">
+            <snd name="entities/units/animals/SeaLionCalifornia/sound/HornSeal_3.wav" volume="1" mindist="6" maxdist="30"/>
+         </BF3DSndFactory>    
+   </BFSoundtag>    
+   <BFSoundtag>
+         <BF3DSndFactory name="Horns_mm_4">
+            <snd name="entities/units/animals/SeaLionCalifornia/sound/HornSeal_4.wav" volume="1" mindist="6" maxdist="30"/>
+         </BF3DSndFactory>    
+    </BFSoundtag>      
+    
+    <!--Swing Prop-->
+   <BFSoundtag>
+         <BF3DSndFactory name="SealSwing">
+            <snd name="entities/objects/props/SealSwing/sound/SealSwing.wav" volume=".7" mindist="3" maxdist="30"/>
+         </BF3DSndFactory>    
+   </BFSoundtag>           
+   
+   <!--adult sounds-->
+    
+   </soundtags>

@@ -1,0 +1,12 @@
+﻿<entries>
+   <BFHelpEntry entry="zoopedia_home">
+      <BFHelpEntry entry="zoopedia_scenery">
+         <BFHelpEntry entry="zoopedia_aquarium"/>      
+         <BFHelpEntry entry="zoopedia_drinkingfountain_mm" order="zoopedia_drinkingfountainnautilus"/>
+			<BFHelpEntry entry="zoopedia_koi"/>
+			<BFHelpEntry entry="zoopedia_seahorseride"/>
+			<BFHelpEntry entry="zoopedia_fountain_splash_mm" order="zoopedia_belugasplashfountain"/>
+			<BFHelpEntry entry="zoopedia_cannon" order="zoopedia_piratecannon"/>			
+      </BFHelpEntry>
+   </BFHelpEntry>
+</entries>

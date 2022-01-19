@@ -1,0 +1,33 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bluewhalehall_mm:entry"  >Blue Whale Hall</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bluewhalehall_mm:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\bluewhalehall_mm\bluewhalehall_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+The blue whale hall is a whale-sized museum containing exhibits on blue whales, the largest animals on earth. Guests are both amused and educated by visiting the museum. A guest's educational donations temporarily increase after viewing the blue whale hall.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_touchpool_mm:entry"  >Touch Pool</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_touchpool_mm:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\touchpool_mm\touchpool_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+The touch pool gives guests to see and hold small marine animals such as conchs, horseshoe crabs, starfish and sea cucumbers. Guests are amused by using the touch pool.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING> 
+  
+</ZT2Strings>

@@ -1,0 +1,57 @@
+﻿<ZT2Strings>
+
+ <zoopedia_marinefence>
+  <entry>Marine Themed Fence</entry>
+  <text>
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\marinefence_high_mm\marinefence_high_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+The marine themed fence is best used in marine animal exhibits and their nearby public areas.
+     </color>
+    </cell>
+   </cell>
+  </text>
+ </zoopedia_marinefence>
+
+ <zoopedia_marinewindowfence>
+  <entry>Marine Themed Window Fence</entry>
+  <text>
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\marinefence_window_mm\marinefence_window_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+The marine themed window fence is best used in marine animal exhibits and their nearby public areas.
+     </color>
+    </cell>
+   </cell>
+  </text>
+ </zoopedia_marinewindowfence>
+
+ <zoopedia_showfence>
+  <entry>Marine Show Fence</entry>
+  <text>
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\showfence_mm\showfence_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+The marine show fence isn't strong, so it's not the best choice for animal exhibits. It's an excellent choice, though, for creating enclosed show areas for your grandstands.
+     </color>
+    </cell>
+   </cell>
+  </text>
+ </zoopedia_showfence>
+
+</ZT2Strings>

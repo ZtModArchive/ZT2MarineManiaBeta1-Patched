@@ -1,0 +1,89 @@
+<BFTypedBinder binderType="IceBlock_Clams">
+   <types>
+      <entity>
+         <enrichment>
+            <toy>
+               <IceBlock>
+                  <IceBlock_Clams/>
+               </IceBlock>
+            </toy>
+         </enrichment>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity entityVersion="1"/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\objects\enrichment\IceBlock_mm\IceBlock_Clams_icon.dds"/>
+         </UIAspect>
+         <UIHelpInfo name="" short="" long="" help="" ids="entityname:IceBlock_Clams"/>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="IceBlock_Clams"/>
+         </on>
+      </UIToggleButton>
+      <UIToggleButton template="researchentity">
+         <UIAspect>
+            <default image="entities\objects\enrichment\IceBlock_mm\IceBlock_Clams_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="IceBlock_Clams"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Researchable="true" s_uisort="fb" s_Product="Marine" b_FrugivoreFood="true" s_contents="Terrain_Clams" s_prop="Clams_Prop" f_researchUnlockTime="45" f_researchCost="200" f_FameReq="0" s_Zoopedia="zoopedia:zoopedia_iceblock:entry"/>
+   </shared>
+   <binder>
+      <BFNamedBinder binderName="mainObj">
+         <instance>
+            <BFPhysObj>
+               <BFSimpleLODComponent isBFR="true" modelfile="entities/objects/enrichment/IceBlock/IceBlock" switch="0 18 36" minSwitch="0 18 36"/>
+               <BFGroundFitComponent heightOffset="0.0" floatOnWater="true" waterOffset="-0.25"/>
+               <BFDistanceCullComponent firstPersonOnly="true" cullDistance="65"/>
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+      <BFNamedBinder binderName="full" required="1">
+         <instance>
+            <BFPhysObj>
+               <BFSceneGraphComponent modelfile="entities/objects/enrichment/IceBlock_mm/IceBlock_Clams" switch="0 18 36" minSwitch="0 18 36"/>
+               <BFGroundFitComponent heightOffset="0.0" maxTilt="50" floatOnWater="true" waterOffset="-0.25"/>
+               <BFDistanceCullComponent firstPersonOnly="true" cullDistance="65"/>
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+      <BFNamedBinder binderName="empty" required="0">
+         <instance>
+            <BFPhysObj>
+               <BFSceneGraphComponent isBFR="true" modelfile="entities/objects/enrichment/IceBlock/IceBlock"/>
+               <BFGroundFitComponent heightOffset="0.0" floatOnWater="true" waterOffset="-0.25"/>
+               <BFDistanceCullComponent firstPersonOnly="true" cullDistance="65"/>
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+      <BFBinder required="1">
+         <instance>
+            <BFAIEntityDataInstance f_FoodLevel="100"/>
+         </instance>
+      </BFBinder>
+      <BFBinder required="1">
+         <instance>
+            <BFAIFadeController attribName="f_FoodLevel" currState="full" fadePeriod="1">
+               <stateList>
+                  <full physObj="full" minRange="1" maxRange="101"/>
+                  <empty physObj="empty" minRange="-101" maxRange="1"/>
+               </stateList>
+            </BFAIFadeController>
+         </instance>
+      </BFBinder>
+      <BFBinder>
+         <instance>
+            <ZTEconomyComponent cost="250">
+               <ZTTransaction name="build" costType="parent" type="debit" category="animal_upkeep"/>
+               <ZTTransaction name="destroy" cost="80" costType="%parent" type="credit" category="recycling"/>
+               <ZTTransaction name="refill" cost="50" type="debit" category="animal_upkeep"/>
+            </ZTEconomyComponent>
+         </instance>
+      </BFBinder>
+   </binder>
+</BFTypedBinder>

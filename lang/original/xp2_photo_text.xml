@@ -1,0 +1,231 @@
+﻿<ZT2Strings>
+	<PhotoChallengetext>
+
+		<PHMantaPhotoPhotos>Manta Ray Photo</PHMantaPhotoPhotos>
+		<PHMantaPhoto>Very little is known about manta rays, so scientists at Maritime Oceanic University are conducting a study of them. The scientists are studying why these magnificent creatures sometimes breach-that is, why they sometimes jump out of the ocean and into the air while swimming.
+			<p/>
+The researchers at the university will pay you $1,250 if you can provide them with a picture of a manta ray breaching.
+			<p/>
+   			Difficulty: Easy
+		</PHMantaPhoto>
+		<PHMantaPhotoShort>Take a photo of a manta ray breaching.
+		</PHMantaPhotoShort>
+		<PHMantaPhotoSuccess>Your photo of a manta ray breaching will help scientists learn more about these mysterious creatures. The university has paid you $1,250 for your picture.</PHMantaPhotoSuccess>
+		<PHMantaPhotoSuccessShort>You have earned $1,250 for your photo of a manta ray breaching.</PHMantaPhotoSuccessShort>
+		<stt_MantaRayBreaching>Take a photo of a manta ray breaching.</stt_MantaRayBreaching>
+		
+		
+		
+		<PHBelugaPhotoPhotos>Beluga Photo</PHBelugaPhotoPhotos>
+		<PHBelugaPhoto>The editors at Zoo News Monthly magazine are putting together a special issue on arctic whales. If you can provide them with a photo of a guest viewing a beluga whale they will pay you $750.
+			<p/>Difficulty: Easy
+		</PHBelugaPhoto>
+		<PHBelugaPhotoShort>Take a photo of a guest viewing a beluga whale.
+		</PHBelugaPhotoShort>
+		<PHBelugaPhotoSuccess>Your picture of a guest viewing a beluga whale will appear in the next issue of Zoo News Monthly. You have been paid $750 for the photo.</PHBelugaPhotoSuccess>
+		<PHBelugaPhotoSuccessShort>You have earned $750 for your photo of a guest viewing a beluga whale.</PHBelugaPhotoSuccessShort>
+		<stt_BelugaAndGuest>Take a photo of a guest viewing a beluga whale.</stt_BelugaAndGuest>		
+
+
+
+		<PHExplorerVisitPhotos>Explorer Visit</PHExplorerVisitPhotos>
+		<PHExplorerVisit>You've been informed that renowed undersea explorer Stéphane Baleine is going to visit your zoo! Baleine is world-famous for his television shows and his research on shark behaviors. He's interested in seeing two particular species at your zoo. He'd like to see the rare and mysterious goblin shark, a species known to live as deep as 4,000 feet beneath the suface. He'd also like to see the scalloped hammerhead shark, an aggressive species with uniquely-shaped head projections.
+					<p/>If you can take photos of Stéphane Baleine viewing a goblin shark and a scalloped hammerhead it will generate positive publicity for your zoo. The publicity will attract additional guests and also help reduce guest unhappiness. Everyone will be excited to learn that a celebrity has visited your zoo!
+					<br/>
+   			Difficulty: Moderate.			
+		</PHExplorerVisit>
+		<PHExplorerVisitShort>Take the following photos:
+					<br/>
+*  Undersea explorer Stéphane Baleine viewing a goblin shark.  
+					<br/>
+*  Undersea explorer Stéphane Baleine viewing a scalloped hammerhead shark.
+		</PHExplorerVisitShort>
+		<PHExplorerVisitSuccess>You rushed your photos of Stéphane Baleine visiting your zoo to the local newspaper. Not only has the publicity has attracted more guests to your zoo but all the guests currently in your zoo are now slightly happier. Everyone's thrilled to be visiting the famous explorer's favorite zoo!</PHExplorerVisitSuccess>
+		<PHExplorerVisitSuccessShort>The publicity from your photos of the undersea explorer Stéphane Baleine has made your guests happier and attracted more guests to your zoo.</PHExplorerVisitSuccessShort>
+		<PHExplorerVisitFailure>Stéphane Baleine has left the zoo! Unfortunately, he left before you could take the photos you needed. You've missed out on a chance to attract more guests to your zoo.</PHExplorerVisitFailure>
+		<PHExplorerVisitFailureShort>Stéphane Baleine left the zoo before you could take the photos you needed.</PHExplorerVisitFailureShort>		
+		<PHExplorerVisitDivaName>Stéphane Baleine</PHExplorerVisitDivaName>
+		<stt_ExplorerGoblinShark>Take a photo of Stéphane Baleine viewing a goblin shark.</stt_ExplorerGoblinShark>
+		<stt_ExplorerHammerhead>Take a photo of Stéphane Baleine viewing a scalloped hammerhead shark.</stt_ExplorerHammerhead>		
+
+
+
+
+		<PHWildlifeCalendarsPhotos>WildWorld Wildlife Calendars</PHWildlifeCalendarsPhotos>
+		<PHWildlifeCalendars>(Marine Animals Challenge) WildWorld Wildlife Calendars produces animal-themed wall calendars. The company will pay you a $7,000 fee if you can provide them the following three photos for next year's "Wet and Wild" calendar: 
+					<br/>
+*  A hippopotamus walking underwater. 
+					<br/>
+*  An emperor penguin diving into the water.
+					<br/>
+*  A polar bear doing either a barrel roll or a flip in the water.
+<br/>
+Difficulty: Moderate.			
+		</PHWildlifeCalendars>
+			
+		<PHWildlifeCalendarsShort>Take the following photos:
+					<br/>
+*  A hippopotamus walking underwater.  
+					<br/>
+*  An emperor penguin diving into the water. 
+					<br/>
+*  A polar bear doing either a barrel roll or a flip in the water.		
+		</PHWildlifeCalendarsShort>
+		
+		<PHWildlifeCalendarsSuccess>WildWorld Wildlife Calendars has paid you $7,000 for your photos of animals underwater. Your pictures will look great in next year's calendar!</PHWildlifeCalendarsSuccess>
+		<PHWildlifeCalendarsSuccessShort>You took a series of photos of animals underwater for WildWorld Wildlife Calendars.</PHWildlifeCalendarsSuccessShort>
+		
+		<stt_WildlifeCalendarsHippo>Take a photo of a hippopotamus walking underwater.</stt_WildlifeCalendarsHippo>
+		<stt_WildlifeCalendarsPenguin>Take a photo of an emperor penguin diving into the water.</stt_WildlifeCalendarsPenguin>
+		<stt_WildlifeCalendarsPolarBear>Take a photo of a polar bear doing either a barrel roll or a flip in the water.</stt_WildlifeCalendarsPolarBear>
+
+
+
+		<PHPeerlessPostersPhotos>Peerless Posters</PHPeerlessPostersPhotos>
+		<PHPeerlessPosters>(Marine Show Challenge) Peerless Posters Ltd. produces high-quality wildlife posters and art prints. The company is looking for a photo of two bottlenose dolphins performing the Water Walk trick at the same time. If you can provide Peerless Posters with this photo you will receive a cash grant of $4,500. 
+					<br/>
+Difficulty: Moderate.			
+		</PHPeerlessPosters>		
+		<PHPeerlessPostersShort>Take a photo of two bottlenose dolphins performing the Water Walk trick at the same time.	
+		</PHPeerlessPostersShort>
+		<PHPeerlessPostersSuccess>Good work! Your photo of two bottlenose dolphins performing the Water Walk trick at the same time will make an excellent poster. Peerless Photos has paid you $4,500 for the picture.</PHPeerlessPostersSuccess>
+		<PHPeerlessPostersSuccessShort>You took a photo of two bottlenose dolphins performing the Water Walk trick at the same time.</PHPeerlessPostersSuccessShort>
+		
+		<stt_PeerlessPostersTrick>Take a photo of two bottlenose dolphins performing the Water Walk trick at the same time.</stt_PeerlessPostersTrick>
+
+
+
+		<PHCetaceanDigestPhotos>Cetacean Digest</PHCetaceanDigestPhotos>
+		<PHCetaceanDigest>(Marine Show Challenge) Cetaean Digest magazine would like to buy some photos of trained cetaceans-that is, dolphins and whales. The magazine is looking for three photos in particular: 
+					<br/>
+*  Any animal performing the Flip Jump trick. 
+					<br/>
+*  Any animal performing the Tail Splash trick.
+					<br/>
+*  Any animal performing the Straight Up Jump trick.
+					<br/>
+Cetacean Digest will pay you a cash award based on the star ratings of the animals in the photos. The higher the star rating, the higher the cash award! You're guaranteed a cash award of at least $2,000 but you could potentially earn much more.
+<br/>
+Difficulty: Moderate.			
+		</PHCetaceanDigest>
+			
+		<PHCetaceanDigestShort>Take the following photos:
+					<br/>
+*  A photo of any animal performing the Flip Jump trick.  
+					<br/>
+*  A photo of any animal performing the Tail Splash trick. 
+					<br/>
+*  A photo of any animal performing the Straight Up Jump trick.		
+		</PHCetaceanDigestShort>
+		
+		<PHCetaceanDigestSuccess>Cetacean Digest is thrilled with your work! The magazine has given you a cash award for your photos based on the star ratings of the animals in them.</PHCetaceanDigestSuccess>
+		<PHCetaceanDigestSuccessShort>You took a series of photos of animals performing tricks for Cetacean Digest.</PHCetaceanDigestSuccessShort>
+		
+		<stt_CetaceanDigestTrick1>Take a photo of an animal performing the Flip Jump trick.</stt_CetaceanDigestTrick1>
+		<stt_CetaceanDigestTrick2>Take a photo of an animal performing the Tail Splash trick.</stt_CetaceanDigestTrick2>
+		<stt_CetaceanDigestTrick3>Take a photo of an animal performing the Straight Up Jump trick.</stt_CetaceanDigestTrick3>
+
+
+
+		<PHPinnipedTrainersQuarterlyPhotos>Pinniped Trainers Quarterly</PHPinnipedTrainersQuarterlyPhotos>
+		<PHPinnipedTrainersQuarterly>(Marine Show Challenge) Pinniped Trainers Quarterly would like some photos of pinnipeds (seals, sea lions, and walruses) performing particular tricks for their next isssue. These are the photos the magazine is looking for: 
+					<br/>
+*  Any animal performing the Balance Ball on Nose trick. 
+					<br/>
+*  Any animal performing the Use Slide trick.
+					<br/>
+*  Any animal performing the Use Horn trick.
+					<br/>
+Pinniped Trainers Quarterly will pay you a cash award based on the star ratings of the animals in the photos. The higher the star rating, the higher the cash award! You're guaranteed a cash award of at least $2,000 but you could potentially earn much more.
+<br/>
+Difficulty: Moderate.			
+		</PHPinnipedTrainersQuarterly>
+			
+		<PHPinnipedTrainersQuarterlyShort>Take the following photos:
+					<br/>
+*  A photo of any animal performing the Balance Ball on Nose trick.  
+					<br/>
+*  A photo of any animal performing the Use Slide trick. 
+					<br/>
+*  A photo of any animal performing the Use Horn trick.		
+		</PHPinnipedTrainersQuarterlyShort>
+		
+		<PHPinnipedTrainersQuarterlySuccess>Pinniped Trainers Quarterly has accepted your photos for publication! The magazine has given you a cash award for your photos based on the star ratings of the animals in them.</PHPinnipedTrainersQuarterlySuccess>
+		<PHPinnipedTrainersQuarterlySuccessShort>You took a series of photos of animals performing tricks for Pinniped Trainers Quarterly.</PHPinnipedTrainersQuarterlySuccessShort>
+		
+		<stt_PinnipedTrainersQuarterlyTrick1>Take a photo of an animal performing the Balance Ball on Nose trick.</stt_PinnipedTrainersQuarterlyTrick1>
+		<stt_PinnipedTrainersQuarterlyTrick2>Take a photo of an animal performing the Use Slide trick.</stt_PinnipedTrainersQuarterlyTrick2>
+		<stt_PinnipedTrainersQuarterlyTrick3>Take a photo of an animal performing the Use Horn trick.</stt_PinnipedTrainersQuarterlyTrick3>
+
+
+
+		<PHInternationalOceanographerPhotos>International Oceanographer</PHInternationalOceanographerPhotos>
+		<PHInternationalOceanographer>(Marine Animal Challenge) International Oceanographer magazine is proposing a joint publicity campaign that would promote both their magazine and your zoo. If you take underwater photos of certain marine animals then the magazine will sponsor a poster campaign featuring the pictures. The magazine is looking for these pictures: 
+					<br/>
+*  A photo of two marlins taken while underwater. 
+					<br/>
+*  A photo of a leatherback turtle eating jellyfish taken while underwater.
+					<br/>
+*  A photo of a pilot whale taken while underwater.
+					<br/>
+If you can provide these to International Oceanographer the magazine will sponsor an advertising campaign that will feature the photos in posters and print ads. The resulting publicity will attract extra guests to your zoo and may make your zoo slightly more famous.
+<br/>
+Difficulty: Easy.			
+		</PHInternationalOceanographer>
+			
+		<PHInternationalOceanographerShort>Take the following photos:
+					<br/>
+*  A photo of two marlins taken while underwater.  
+					<br/>
+*  A photo of a leatherback turtle eating jellyfish taken while underwater. 
+					<br/>
+*  A photo of a pilot whale taken while underwater.		
+		</PHInternationalOceanographerShort>
+		
+		<PHInternationalOceanographerSuccess>International Oceanographer magazine has used your underwater animal photos in a nationwide advertising campaign. The publicity from the ads has made the public curious about your zoo and attracted additional guests!</PHInternationalOceanographerSuccess>
+		<PHInternationalOceanographerSuccessShort>Your photos for International Oceanographer magazine have attracted extra guests to your zoo.</PHInternationalOceanographerSuccessShort>
+		
+		<stt_InternationalOceanographerMarlins>Take a photo of two marlins while underwater.</stt_InternationalOceanographerMarlins>
+		<stt_InternationalOceanographerLeatherbackTurtle>Take a photo of a leatherback turtle eating jellyfish while underwater.</stt_InternationalOceanographerLeatherbackTurtle>
+		<stt_InternationalOceanographerPilotWhale>Take a photo of a pilot whale while underwater.</stt_InternationalOceanographerPilotWhale>
+
+
+
+		<PHPirateVisitPhotos>Pirate Visit</PHPirateVisitPhotos>
+		<PHPirateVisit>You've just heard that Pirate Parker is about to visit your zoo! Pirate Parker is very famous and very eccentric founder of the world-famous chain of Pirate Parker's Seafood Palace restaurants. If you can take the right photos of this celebrity while he's visiting your zoo you can sell the pictures to the news media for cash. On top of that, Pirate Parker has been known to be generous to those he likes, so perhaps he'll give you a gift when he leaves your zoo.
+		<p/>
+<!-- Note that you should get paid for each photo when you take it.-->	
+		Each of the following photos will bring you $2,000:
+					<br/>
+*  A photo of Pirate Parker playing in the Marine splash fountain.  
+					<br/>
+*  A photo of Pirate Parker resting in the octopus gazebo. 
+					<br/>
+*  A photo of Pirate Parker looking at an aquarium.
+					<br/>
+   			Difficulty: Moderate.			
+		</PHPirateVisit>
+			
+		<PHPirateVisitShort>Take the following photos:
+					<br/>
+*  A photo of Pirate Parker playing in the Marine splash fountain.  
+					<br/>
+*  A photo of Pirate Parker resting in the octopus gazebo. 
+					<br/>
+*  A photo of Pirate Parker looking at an aquarium.		
+		</PHPirateVisitShort>
+		
+		<PHPirateVisitPhotoTaken>Well done! You've been paid $2,000 for your photo of Pirate Parker.</PHPirateVisitPhotoTaken>
+		
+		<PHPirateVisitSuccess>Not only have you sold three of your photos for a tidy sum, but Pirate Parker is very impressed with your zoo! "'Tis more fun than a ship full of parrots!" he says. As a reward for entertaining him he's given you a present "for all of yer spare plunder." You'll find Pirate Parker's gift in a crate near the entrance to your zoo.</PHPirateVisitSuccess>
+		<PHPirateVisitSuccessShort>You sold three photos of Pirate Parker and received a gift from him as well.</PHPirateVisitSuccessShort>
+		<PHPirateVisitFailure>Pirate Parker has left your zoo! Although he left before you could take all the photos, he enjoyed his visit. In fact, he had so much fun that he gave you a present before he left--"a little something to keep yer spare doubloons in," in his words. You'll find it crated near the entrance to your zoo.</PHPirateVisitFailure>
+		<PHPirateVisitFailureShort>Pirate Parker left the zoo before you could take all the photos.</PHPirateVisitFailureShort>		
+		<PHPirateVisitPirateName>Pirate Parker</PHPirateVisitPirateName>
+		<stt_PirateVisitFountain>Take a photo of Pirate Parker playing in the marine splash fountain.</stt_PirateVisitFountain>
+		<stt_PirateVisitGazebo>Take a photo of Pirate Parker resting in the octopus gazebo.</stt_PirateVisitGazebo>
+		<stt_PirateVisitAquarium>Take a photo of Pirate Parker viewing an aqarium.</stt_PirateVisitAquarium>
+		<stt_PirateVisitArrival>Pirate Parker has entered your zoo!</stt_PirateVisitArrival>
+
+   </PhotoChallengetext>
+</ZT2Strings>

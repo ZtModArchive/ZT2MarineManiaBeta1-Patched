@@ -1,0 +1,137 @@
+<BFAITaskTemplateList>
+   <BFAITaskTemplate Name="Seat_Failure" reserveTag="Seat_Failure" UniqueID="SealSeat:Seat_Failure">
+     <BFAICreateData>
+       <Subjects>
+         <SeaLionCalifornia_Adult/>
+         <Qualifiers isSwimming="true"/>
+       </Subjects>
+       <Targets>
+         <fromToken/>
+         <Qualifiers inWater="true"/>
+       </Targets>
+       <Objects>
+         <t_SeatFailure/>
+       </Objects>
+     </BFAICreateData>
+     <BFAIEvalData fixedScore="2000"/>
+     <BFBehExecTask>
+       <BFBehEnter/>
+       <BFBehPlaySet behSet="useContainer"/>
+     </BFBehExecTask>
+     <BFAICompletionData>
+       <BFBehExecTask>
+          <BFBehSendToken>
+              <BFAITokenList>
+                 <BFAIToken Name="t_FailureReaction" GiveTo="MC" Payload="subject" Radius="50" Timeout="10" Reconsider="true"/>
+              </BFAITokenList>
+           </BFBehSendToken>
+        </BFBehExecTask>
+     </BFAICompletionData>
+     <BFAIFailureData>
+       <BFBehExecTask>
+         <BFBehPlaySet behSet="FailureSet"/>
+       </BFBehExecTask>
+     </BFAIFailureData>
+   </BFAITaskTemplate>
+   <BFAITaskTemplate Name="Seat_Success" reserveTag="Seat_Success" UniqueID="SealSeat:Seat_Success">
+      <BFAICreateData>
+         <Subjects>
+            <SeaLionCalifornia_Adult/>
+            <Qualifiers isSwimming="true"/>
+         </Subjects>
+         <Targets>
+            <fromToken/>
+            <Qualifiers inWater="true"/>
+         </Targets>
+         <Objects>
+            <t_SeatSuccess/>
+         </Objects>
+      </BFAICreateData>
+      <BFAIEvalData fixedScore="2000"/>
+      <BFBehExecTask>
+         <BFBehEnter/>
+         <BFBehPlaySet behSet="useContainer"/>
+      </BFBehExecTask>
+      <BFAICompletionData>
+         <BFAIAttributeFloatMap exercise="-5" stimulation="-5" rest="5"/>
+         <BFBehExecTask>
+          <BFBehSendToken>
+              <BFAITokenList>
+                 <BFAIToken Name="t_SuccessReaction" GiveTo="MC" Payload="subject" Radius="50" Timeout="10" Reconsider="true"/>
+              </BFAITokenList>
+           </BFBehSendToken>
+            <ZTBehFeedback>
+               <ZTFeedbackData>
+                  <ZTEmoticonInfo emoticonName="EmoteAnimalExerciseGood"/>
+               </ZTFeedbackData>
+            </ZTBehFeedback>
+         </BFBehExecTask>
+      </BFAICompletionData>
+      <BFAIFailureData>
+         <BFBehExecTask>
+            <BFBehPlaySet behSet="FailureSet"/>
+         </BFBehExecTask>
+      </BFAIFailureData>
+   </BFAITaskTemplate>
+   <BFAITaskTemplate Name="Seat_Critical" reserveTag="Seat_Critical" UniqueID="SealSeat:Seat_Critical">
+      <BFAICreateData>
+         <Subjects>
+            <SeaLionCalifornia_Adult/>
+            <Qualifiers isSwimming="true"/>
+         </Subjects>
+         <Targets>
+            <fromToken/>
+            <Qualifiers inWater="true"/>
+         </Targets>
+         <Objects>
+            <t_SeatCritical/>
+         </Objects>
+      </BFAICreateData>
+      <BFAIEvalData fixedScore="2000"/>
+      <BFBehExecTask>
+         <BFBehEnter/>
+         <BFBehPlaySet behSet="useContainer"/>
+      </BFBehExecTask>
+      <BFAICompletionData>
+         <BFAIAttributeFloatMap exercise="-5" stimulation="-5" rest="5"/>
+         <BFBehExecTask>
+          <BFBehSendToken>
+              <BFAITokenList>
+                 <BFAIToken Name="t_CriticalReaction" GiveTo="MC" Payload="subject" Radius="50" Timeout="10" Reconsider="true"/>
+              </BFAITokenList>
+           </BFBehSendToken>
+            <ZTBehFeedback>
+               <ZTFeedbackData>
+                  <ZTEmoticonInfo emoticonName="EmoteAnimalExerciseGood"/>
+               </ZTFeedbackData>
+            </ZTBehFeedback>
+         </BFBehExecTask>
+      </BFAICompletionData>
+      <BFAIFailureData>
+         <BFBehExecTask>
+            <BFBehPlaySet behSet="FailureSet"/>
+         </BFBehExecTask>
+      </BFAIFailureData>
+   </BFAITaskTemplate>
+   <BFAITaskTemplate Name="Seat_Training" Priority="85" reserveTag="Seat_Training" UniqueID="SealSeat:Seat_Training">
+     <BFAICreateData>
+       <Subjects>
+          <SeaLionCalifornia_Adult/>
+          <Qualifiers isSwimming="true"/>
+       </Subjects>
+       <Targets>
+         <fromToken/>
+         <Qualifiers_AND inWater="true"/>
+       </Targets>
+       <Objects>
+         <t_FPTSummonSeaLionCaliforniaSeat/>
+       </Objects>
+     </BFAICreateData>
+     <BFAIEvalData fixedScore="95"/>
+     <BFBehExecTask>
+       <BFBehEnter/>
+     </BFBehExecTask>
+     <BFAICompletionData/>
+     <BFAIFailureData/>
+   </BFAITaskTemplate>
+</BFAITaskTemplateList>

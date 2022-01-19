@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BFM modelname="entities\units\animals\CrabRock\CrabRock_Adult_F.nif">
+  <animation anim="entities\units\animals\CrabRock\CrabRock_Adult_F_Walk_Ahead.bf" animName="Walk_Ahead" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="true" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <Graph name="CrabRock_Adult_F" version="1">
+    <node name="Walk">
+      <table>
+        <Walk_Ahead />
+      </table>
+    </node>
+  </Graph>
+</BFM>

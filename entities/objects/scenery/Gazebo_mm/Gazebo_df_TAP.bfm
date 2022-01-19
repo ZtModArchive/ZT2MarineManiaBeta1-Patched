@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BFM modelname="entities\objects\scenery\Gazebo_mm\Gazebo_mm.nif">
+  <animation anim="entities\objects\scenery\Gazebo_mm\Gazebo_df_TAP_Bip01_DockNode00_EnterA.bf" animName="EnterA" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="false" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <animation anim="entities\objects\scenery\Gazebo_mm\Gazebo_df_TAP_Bip01_DockNode02_EnterB.bf" animName="EnterB" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="false" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <animation anim="entities\objects\scenery\Gazebo_mm\Gazebo_df_TAP_Bip01_DockNode04_EnterC.bf" animName="EnterC" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="false" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <animation anim="entities\objects\scenery\Gazebo_mm\Gazebo_df_TAP_Bip01_DockNode06_EnterD.bf" animName="EnterD" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="false" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <animation anim="entities\objects\scenery\Gazebo_mm\Gazebo_df_TAP_Bip01_DockNode08_EnterE.bf" animName="EnterE" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="false" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <animation anim="entities\objects\scenery\Gazebo_mm\Gazebo_df_TAP_Bip01_DockNode01_ExitA.bf" animName="ExitA" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="false" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <animation anim="entities\objects\scenery\Gazebo_mm\Gazebo_df_TAP_Bip01_DockNode03_ExitB.bf" animName="ExitB" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="false" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <animation anim="entities\objects\scenery\Gazebo_mm\Gazebo_df_TAP_Bip01_DockNode05_ExitC.bf" animName="ExitC" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="false" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <animation anim="entities\objects\scenery\Gazebo_mm\Gazebo_df_TAP_Bip01_DockNode07_ExitD.bf" animName="ExitD" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="false" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <animation anim="entities\objects\scenery\Gazebo_mm\Gazebo_df_TAP_Bip01_DockNode09_ExitE.bf" animName="ExitE" debug="false" animSpeed="1" explicitUseOnly="true" resolveUnitCollisions="true" groundFitRotation="false" load="true" yawSpeed="0" pitchSpeed="0" rollSpeed="0" />
+  <Graph name="Gazebo_mm" version="1">
+    <node name="EnterA">
+      <table>
+        <EnterA />
+      </table>
+    </node>
+    <node name="EnterB">
+      <table>
+        <EnterB />
+      </table>
+    </node>
+    <node name="EnterC">
+      <table>
+        <EnterC />
+      </table>
+    </node>
+    <node name="EnterD">
+      <table>
+        <EnterD />
+      </table>
+    </node>
+    <node name="EnterE">
+      <table>
+        <EnterE />
+      </table>
+    </node>
+    <node name="ExitA">
+      <table>
+        <ExitA />
+      </table>
+    </node>
+    <node name="ExitB">
+      <table>
+        <ExitB />
+      </table>
+    </node>
+    <node name="ExitC">
+      <table>
+        <ExitC />
+      </table>
+    </node>
+    <node name="ExitD">
+      <table>
+        <ExitD />
+      </table>
+    </node>
+    <node name="ExitE">
+      <table>
+        <ExitE />
+      </table>
+    </node>
+  </Graph>
+</BFM>

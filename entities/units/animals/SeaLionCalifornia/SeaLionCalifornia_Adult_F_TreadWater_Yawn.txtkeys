@@ -1,0 +1,6 @@
+<TEXTKEY>
+   <key time="0" text="{Bip01} snd 'Yawn'"/>
+   <key time="0" text="{Bip01} snd 'Yawn_uw"/>   
+	<key time="1.5" text="{Bip01 Neck} runspl"/>   
+	<key time="3.0" text="{Bip01 Neck} runspl"/>
+</TEXTKEY>

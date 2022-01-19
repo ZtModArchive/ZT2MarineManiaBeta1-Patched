@@ -1,0 +1,7 @@
+<TEXTKEY>
+   <key time="0" text="{Bip01} snd 'TreadWater_SwipeNose'"/>
+   <key time="0" text="{Bip01} snd 'TreadWater_SwipeNose_uw'"/>
+	<key time="0.4s" text="{Bip01 Neck} runspl"/>   
+	<key time="0.81" text="{Bip01 Spine} runsns"/>     
+   <key time="0.83" text="whap 90"/>
+</TEXTKEY>
